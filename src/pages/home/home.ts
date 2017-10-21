@@ -7,8 +7,15 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
-  constructor(public navCtrl: NavController) {
+  splash = true;
 
+
+  constructor(public navCtrl: NavController) {
+  }
+
+  ionViewWillEnter(){
+    
+    setTimeout(() => this.splash = false, 4000);
   }
 
 }
