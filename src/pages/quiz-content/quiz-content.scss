@@ -1,0 +1,41 @@
+page-quiz-content {
+    .toolbar-title {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        color: #ffffff !important;
+    }
+    .bar-button {
+        color: #ffffff !important;
+    }
+    .quiz-no {
+        text-align: center;
+        margin: 10px auto!important;
+    }
+    .quiz-content label ion-radio {
+        position: relative;
+        top: 3px;
+    }
+    .quiz-content label {
+        // line-height: 50px;
+        margin: 5px auto 5px auto;
+        display: block;
+    }
+    .quiz-content label input {
+        vertical-align: top;
+    }
+    .button-quiz {
+        border-radius: 50px !important;
+        border-right-width: 1px !important;
+        border-left-width: 1px !important;
+        border-color: #ffffff !important;
+        color: #ffffff !important;
+        width: 94% !important;
+        margin: 14px auto !important;
+    }
+    ion-card {
+        border-radius: 5px !important;
+    }
+    ion-content {
+        background: linear-gradient(to bottom, #fdc801 0%, #fba200 100%);
+    }
+}

@@ -1,0 +1,25 @@
+page-quiz {
+    .toolbar-title {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        color: #ffffff !important;
+    }
+    .bar-button {
+        color: #ffffff !important;
+    }
+    ion-content {
+        background: linear-gradient(to bottom, #fdc801 0%, #fba200 100%);
+    }
+    button {
+        border-radius: 50px !important;
+        border-right-width: 1px !important;
+        border-left-width: 1px !important;
+        border-color: #ffffff !important;
+        color: #ffffff !important;
+    }
+    ion-item {
+        padding-left: 16px !important;
+        padding-right: 16px !important;
+        padding-bottom: 16px !important;
+    }
+}

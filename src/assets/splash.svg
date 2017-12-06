@@ -10,7 +10,7 @@
 	.st4{fill:#707070;}
 	.st5{fill:#4C4A4B;}
 	.st6{fill:#342C2A;}
-	.st7{fill:url(#XMLID_396_);}
+	.st7{fill:url(#XMLID_681_);}
 	.st8{fill:#454341;}
 	.st9{fill:#3B3937;}
 	.st10{fill:#F7ECDA;}
@@ -20,16 +20,16 @@
 	.st14{fill:#BA4836;}
 	.st15{display:none;fill:#FDC801;}
 	.st16{display:none;fill:#FBA200;}
-	.st17{fill:url(#XMLID_549_);}
-	.st18{fill:url(#XMLID_634_);}
-	.st19{fill:url(#XMLID_662_);}
+	.st17{fill:url(#XMLID_703_);}
+	.st18{fill:url(#XMLID_740_);}
+	.st19{fill:url(#XMLID_743_);}
 	.st20{fill:#B3B3B3;}
 	.st21{fill:#CCCCCC;}
 	.st22{fill:#999999;}
 	.st23{fill:#808080;}
 	.st24{fill:#E6E6E6;}
 	.st25{fill:#666666;}
-	.st26{fill:url(#XMLID_664_);}
+	.st26{fill:url(#XMLID_744_);}
 	.st27{fill:#8D5B00;}
 	.st28{fill:#F8D8BF;}
 	.st29{fill:#EBA281;}
@@ -48,9 +48,17 @@
 	.st42{fill:#403E3C;}
 	.st43{fill:#A39C90;}
 	.st44{opacity:0.5;}
-	.st45{fill:url(#XMLID_667_);}
-	.st46{fill:url(#XMLID_668_);}
-	.st47{fill:url(#XMLID_670_);}
+	.st45{fill:url(#XMLID_745_);}
+	.st46{fill:url(#XMLID_746_);}
+	.st47{fill:url(#XMLID_748_);}
+	.st48{fill:url(#XMLID_750_);}
+	.st49{fill:none;stroke:#FFFFFF;stroke-width:1.75;stroke-miterlimit:10;}
+	.st50{fill:none;stroke:#FCB533;stroke-width:2.5;stroke-miterlimit:10;}
+	.st51{fill:none;stroke:#FFFFFF;stroke-width:2.5;stroke-miterlimit:10;}
+	.st52{fill:url(#XMLID_756_);}
+	.st53{display:none;}
+	.st54{display:inline;}
+	.st55{display:inline;fill:#FCB533;}
 </style>
 <g id="Layer_1">
 	<rect id="XMLID_175_" x="2732" y="-1687" class="st0" width="640" height="1136"/>
@@ -121,75 +129,30 @@
 			</g>
 		</g>
 	</g>
-	<g id="XMLID_1213_">
-		<g id="XMLID_1257_">
-			<path id="XMLID_1329_" class="st1" d="M1321.3,809.7c-43.2-24.7-90.5-32.5-139.7-33.1c-53.1-0.7-106.3-2.9-159.4-5.1
-				c-15.9-0.7-31.8-3.4-49.2-5.4c0,6.5,0,11.6,0,16.8c0,51.3,0,102.6,0,153.9c0,50.5,0,51.1,50.8,53.3c54.1,2.3,108.2,4,162.3,4.9
-				c45.6,0.8,87.3,13.4,124.3,39.6c17.3,12.2,32.8,27.1,49.7,41.6V836C1347,826.9,1334.7,817.3,1321.3,809.7z"/>
-			<path id="XMLID_1309_" class="st2" d="M1398.9,809.7c43.2-24.7,90.5-32.5,139.7-33.1c53.1-0.7,106.3-2.9,159.4-5.1
-				c15.9-0.7,31.8-3.4,49.2-5.4c0,6.5,0,11.6,0,16.8c0,51.3,0,102.6,0,153.9c0,50.5,0,51.1-50.8,53.3c-54.1,2.3-108.2,4-162.3,4.9
-				c-45.6,0.8-87.3,13.4-124.3,39.6c-17.3,12.2-32.8,27.1-49.7,41.6V836C1373.2,826.9,1385.5,817.3,1398.9,809.7z"/>
-			<path id="XMLID_1287_" class="st3" d="M1753.5,1210.2c2-50.2-23.2-97.8-74.8-121.5c-73.8-33.9-145.3-25.2-214,14
-				c-40,22.8-42,37.1-13.6,73.7c29.9,38.6,71.6,53.2,118,61.8c30.9,5.7,60.7,17.5,90.7,27.7c7.9,2.7,14.5,9.4,24.6,16.2
-				c0,0,6.9-2,35-28.2C1747.2,1227.7,1753.5,1210.2,1753.5,1210.2z"/>
-			<path id="XMLID_1262_" class="st4" d="M1719.1,1253.9c-28.1,26.1-35,28.2-35,28.2c-101.3,60.2-185.8,24.5-269.5-36.3
-				c0,6.8,0,11,0,15.3c0,68.9,0.3,137.7-0.3,206.6c-0.1,11.4,4,16.9,13.9,21.5c43.3,20.4,88.4,34.8,136.3,38.3
-				c63.1,4.7,121.6-9.2,173.5-47c10.3-7.5,15-15.9,14.8-29.5c-0.7-80.3-2.6-160.6,0.5-240.8
-				C1753.5,1210.2,1747.2,1227.7,1719.1,1253.9z"/>
-			<path id="XMLID_1258_" class="st5" d="M1112.2,1074c86.6-8,181.8,25.2,213.6,106.2c4.4,11.2,7.1,23.8,7.2,35.8
-				c0.6,92.1,0.3,184.2,0.3,276.3c0,25.4,0.1,20.8-20.3,20.8c-56,0-112-0.3-168,0.2c-12.8,0.1-16.9-3.4-16.9-16.7
-				c0.5-122.5,0.2-244.9,0.3-367.4C1128.5,1109.8,1127.6,1090.9,1112.2,1074z"/>
-		</g>
-		<g id="XMLID_1214_">
-			<g id="XMLID_1230_">
-				<path id="XMLID_1255_" class="st6" d="M1067,1950.7v-10.2c0-7,5.8-11.6,12.8-11.6h50.6c3.1,0,7.5-3.5,7.5-6.6v-9.3
-					c0-3.1-4.4-4.4-7.5-4.4h-37.4c-17.3,0-25.9-9.4-25.9-25.8v-33.6c0-17.9,8.3-25,25-25h60.1c7,0,12.8,3.8,12.8,10.7v10.2
-					c0,7-5.9,12.8-12.8,12.8h-47.5c-3.1,0-3.9,2.3-3.9,5.4v9.1c0,3.1,0.8,5.8,3.9,5.8h38.6c16.4,0,21.7,8,21.7,24.6v33
-					c0,18.3-6,26.8-23.9,26.8h-61.2C1072.8,1962.6,1067,1957.6,1067,1950.7z"/>
-				<path id="XMLID_1252_" class="st6" d="M1208.6,1962.6c-17.3,0-26.8-7.6-26.8-24V1880c0-17.1,9.3-25.4,26.3-25.4h41.9
-					c7,0,12.8,5.5,12.8,12.4v7.1c0,7-5.9,14.3-12.8,14.3h-29.7c-3.1,0-4.8,0.8-4.8,3.9v33c0,4,1.1,7,4.8,7h30
-					c7,0,12.5,4.6,12.5,11.5v6.9c0,7-5.5,12-12.5,12H1208.6z"/>
-				<path id="XMLID_1246_" class="st6" d="M1340.4,1950.7v-58.4c0-3.1-1.4-3.9-4.5-3.9h-29.3v62.3c0,7-4.3,12-11.3,12h-6.9
-					c-7,0-15.6-5-15.6-12V1835c0-7,8.6-10.7,15.6-10.7h6.9c7,0,11.3,3.8,11.3,10.7v19.6h41.5c16.9,0,26,8.4,26,25.4v70.6
-					c0,7-6.2,12-13.2,12h-6.9C1347.1,1962.6,1340.4,1957.6,1340.4,1950.7z"/>
-				<path id="XMLID_1238_" class="st6" d="M1414.9,1962.6c-17.3,0-27.2-7.6-27.2-24V1880c0-17.1,9.8-25.4,26.7-25.4h47.8
-					c16.8,0,26.8,8.4,26.8,25.6v57.6c0,16.9-9.8,24.8-26.4,24.8H1414.9z M1455.2,1892.3c0-3.1-2-3.9-5-3.9h-23.5
-					c-3.1,0-5.2,0.8-5.2,3.9v33c0,4,1.5,7,5.2,7h23.5c3.1,0,5-3.5,5-6.6V1892.3z"/>
-				<path id="XMLID_1235_" class="st6" d="M1528.2,1962.6c-17.3,0-25.7-7.6-25.7-24V1880c0-17.1,8.2-25.4,25.2-25.4h47.8
-					c16.8,0,24.9,8.4,24.9,25.6v57.6c0,16.9-8,24.8-24.5,24.8H1528.2z M1569.9,1892.3c0-3.1-3.5-3.9-6.6-3.9h-23.5
-					c-3.1,0-3.7,0.8-3.7,3.9v33c0,4-0.1,7,3.7,7h23.5c3.1,0,6.6-3.5,6.6-6.6V1892.3z"/>
-				<path id="XMLID_1233_" class="st6" d="M1650.9,1953.4c0,7-5.6,12.6-12.6,12.6h-8.6c-7,0-12.6-5.6-12.6-12.6v-116.6
-					c0-7,5.6-12.6,12.6-12.6h8.6c7,0,12.6,5.6,12.6,12.6V1953.4z"/>
-				<path id="XMLID_1231_" class="st6" d="M1664.4,1950.7v-5.2c0-7,6.1-13.2,13.1-13.2h48.8c2.1,0,5.6-0.5,5.6-2.7v-6.5
-					c0-2-3.5-4.3-5.6-4.3h-40.6c-8.4,0-13.8-1.3-16.9-5.1c-3.2-3.8-4.3-9.2-4.3-17.3v-16.5c0-16.9,7.6-25.2,24.4-25.2h57.5
-					c7,0,12.6,5.5,12.6,12.4v5c0,7-5.7,12.9-12.6,12.9h-48.2c-2.1,0-3.3,0.8-3.3,3v6.5c0,2,1.2,4,3.3,4h40.8c15.3,0,20,6.7,20,22.3
-					v16.9c0,17.1-4.7,24.9-20,24.9h-61.4C1670.6,1962.6,1664.4,1957.6,1664.4,1950.7z"/>
-			</g>
-			<g id="XMLID_1215_">
-				<path id="XMLID_1228_" class="st6" d="M1110.9,1748.2v-99.5H1089c-7,0-11.9-4.6-11.9-11.6V1625c0-7,4.9-10.1,11.9-10.1h78.9
-					c7,0,13.9,3.1,13.9,10.1v12.1c0,7-6.9,11.6-13.9,11.6h-23.2v99.5c0,7-4.6,11.9-11.6,11.9h-9.2
-					C1116.9,1760.1,1110.9,1755.1,1110.9,1748.2z"/>
-				<path id="XMLID_1225_" class="st6" d="M1213.7,1760.1c-18.7,0-28.5-8.3-28.5-26.3v-60.7c0-18,9.5-27.8,27.5-27.8h53.6
-					c17.1,0,26.9,9.6,26.9,27v16.8c0,17.7-9.8,27.1-26.9,27.1h-39.8c-2.4,0-4.2-1-7.6-1.9v8.6c0,3.9,3.4,3.4,7.4,3.4h48.1
-					c6.9,0,12,8,12,14.9v7.1c0,6.9-5.1,11.8-12,11.8H1213.7z M1256,1681.5c0-2.6,0.1-5.8-2.5-5.8h-29.2c-2.7,0-5.4,3.2-5.4,5.8v8
-					c0,2.6,2.7,6.4,5.4,6.4h29.2c2.7,0,2.5-3.8,2.5-6.4V1681.5z"/>
-				<path id="XMLID_1223_" class="st6" d="M1343.8,1750.9c0,7-5.6,12.6-12.6,12.6h-11.9c-7,0-12.6-5.6-12.6-12.6v-123.3
-					c0-7,5.6-12.6,12.6-12.6h11.9c7,0,12.6,5.6,12.6,12.6V1750.9z"/>
-				<path id="XMLID_1221_" class="st6" d="M1425.3,1760.1l-30.9-54.2v42.3c0,7-5.3,11.9-12.3,11.9h-9.4c-7,0-12.1-5-12.1-11.9V1625
-					c0-7,5.1-10.1,12.1-10.1h9.4c7,0,12.3,3.1,12.3,10.1v64.7l28.5-44.4h37.6l-32,48.5l39.2,66.3H1425.3z"/>
-				<path id="XMLID_1218_" class="st6" d="M1500,1760.1c-18.7,0-27.9-8-27.9-25.3v-61.7c0-18,9-27.8,27.3-27.8h51.6
-					c18.1,0,25.7,9.9,25.7,28v60.7c0,17.8-7.4,26.1-25.3,26.1H1500z M1542.9,1686c0-3.9-1-6.9-5-6.9h-25.4c-4,0-6.8,3-6.8,6.9v34.8
-					c0,4.2,2.8,5.6,6.8,5.6h25.4c4,0,5-1.3,5-5.2V1686z"/>
-				<path id="XMLID_1216_" class="st6" d="M1731.2,1760.1c-7,0-12.8-5-12.8-11.9V1686c0-3.9-1.8-6.9-5.8-6.9h-21.2v69.1
-					c0,7-6.5,11.9-13.4,11.9h-9c-7,0-14.7-5-14.7-11.9v-69.1h-19.5c-4,0-7.5,3-7.5,6.9v62.2c0,7-4.1,11.9-11.1,11.9h-9
-					c-7,0-10.3-5-10.3-11.9v-75.1c0-18,6.8-27.8,25.1-27.8h103.2c18.1,0,27,9.9,27,28v74.9c0,7-5.4,11.9-12.4,11.9H1731.2z"/>
-			</g>
-		</g>
+	<g id="XMLID_1434_">
+		<path id="XMLID_1445_" class="st1" d="M1280,674.2c-88.6-50.6-185.5-66.6-286.5-67.9c-108.9-1.4-217.8-6-326.7-10.5
+			c-32.7-1.3-65.2-7.1-100.8-11.1c0,13.3,0,23.8,0,34.3c0,105.2,0,210.3,0,315.5c0,103.5-0.1,104.7,104.1,109.2
+			c110.9,4.8,221.8,8.2,332.7,10.1c93.5,1.6,178.9,27.5,254.8,81.1c35.5,25,67.1,55.5,101.9,85.2V728.1
+			C1332.6,709.5,1307.5,689.8,1280,674.2z"/>
+		<path id="XMLID_1442_" class="st2" d="M1439,674.2c88.6-50.6,185.5-66.6,286.5-67.9c108.9-1.4,217.8-6,326.7-10.5
+			c32.7-1.3,65.2-7.1,100.8-11.1c0,13.3,0,23.8,0,34.3c0,105.2,0,210.3,0,315.5c0,103.5,0.1,104.7-104.1,109.2
+			c-110.9,4.8-221.8,8.2-332.7,10.1c-93.5,1.6-178.9,27.5-254.8,81.1c-35.5,25-67.1,55.5-101.9,85.2V728.1
+			C1386.4,709.5,1411.6,689.8,1439,674.2z"/>
+		<path id="XMLID_1439_" class="st3" d="M2165.8,1495.2c4.1-102.9-47.6-200.4-153.3-249c-151.3-69.5-297.9-51.6-438.8,28.7
+			c-82,46.8-86,76.1-28,151c61.2,79,146.8,109.1,241.9,126.6c63.3,11.6,124.5,36,185.9,56.8c16.3,5.5,29.8,19.3,50.3,33.1
+			c0,0,14.1-4.1,71.6-57.7C2153,1531.2,2165.8,1495.2,2165.8,1495.2z"/>
+		<path id="XMLID_1436_" class="st4" d="M2095.4,1584.8c-57.6,53.6-71.6,57.7-71.6,57.7c-207.7,123.4-380.9,50.3-552.4-74.4
+			c0,13.9,0,22.6,0,31.3c0,141.2,0.6,282.3-0.6,423.5c-0.2,23.4,8.3,34.5,28.4,44c88.8,41.8,181.3,71.3,279.4,78.6
+			c129.4,9.6,249.3-18.8,355.7-96.4c21.1-15.4,30.7-32.6,30.4-60.4c-1.5-164.5-5.4-329.3,1.1-493.5
+			C2165.8,1495.2,2153,1531.2,2095.4,1584.8z"/>
+		<path id="XMLID_1433_" class="st5" d="M851.2,1216c177.6-16.5,372.7,51.7,437.8,217.6c9,22.9,14.6,48.8,14.7,73.3
+			c1.2,188.8,0.6,377.6,0.7,566.3c0,52,0.2,42.5-41.6,42.5c-114.8,0-229.7-0.7-344.5,0.5c-26.2,0.3-34.7-7.1-34.6-34.3
+			c1-251.1,0.5-502.1,0.7-753.2C884.6,1289.4,882.9,1250.8,851.2,1216z"/>
 	</g>
 </g>
 <g id="Layer_2">
 	<rect id="XMLID_394_" x="3499.8" y="-1687" class="st0" width="640" height="1136"/>
-	<linearGradient id="XMLID_396_" gradientUnits="userSpaceOnUse" x1="3977.8335" y1="-1193.998" x2="3643.6462" y2="-1705.801">
+	<linearGradient id="XMLID_681_" gradientUnits="userSpaceOnUse" x1="3977.8335" y1="-1193.998" x2="3643.6462" y2="-1705.801">
 		<stop  offset="0" style="stop-color:#FBA200"/>
 		<stop  offset="9.335864e-002" style="stop-color:#FBAA00"/>
 		<stop  offset="0.3551" style="stop-color:#FCBB01"/>
@@ -1193,10 +1156,10 @@ taxlLWtZy1rWspa1rOWRlv8LMABTjPn82o1/7gAAAABJRU5ErkJggg==" transform="matrix(1 0 
 	<rect id="XMLID_386_" x="3764.8" y="-1950.6" class="st15" width="145.1" height="145.1"/>
 	<rect id="XMLID_387_" x="3558.6" y="-1950.6" class="st16" width="145.1" height="145.1"/>
 	<g id="XMLID_391_">
-		<rect id="XMLID_803_" x="3591.7" y="-1025" style="fill:none;" width="452.5" height="226"/>
-		<text id="XMLID_794_" transform="matrix(1 0 0 1 3594.1377 -1011.6445)"><tspan x="0" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">Lorem ipsum dolor sit amet, consectetur adipisc</tspan><tspan x="439.2" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">-</tspan><tspan x="16.9" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ing elit. Vivamus ac condimentum tellus. Sus</tspan><tspan x="422.2" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">-</tspan><tspan x="22.5" y="56" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">pendisse hendrerit enim ante, vitae volutpat </tspan><tspan x="16.2" y="84" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ligula fringilla in. Vivamus pulvinar laoreet leo. </tspan><tspan x="77.8" y="112" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">Phasellus nulla metus, iaculis ut.</tspan></text>
+		<rect id="XMLID_1005_" x="3591.7" y="-1025" style="fill:none;" width="452.5" height="226"/>
+		<text id="XMLID_966_" transform="matrix(1 0 0 1 3594.1377 -1011.6445)"><tspan x="0" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">Lorem ipsum dolor sit amet, consectetur adipisc</tspan><tspan x="439.2" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">-</tspan><tspan x="16.9" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ing elit. Vivamus ac condimentum tellus. Sus</tspan><tspan x="422.2" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">-</tspan><tspan x="22.5" y="56" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">pendisse hendrerit enim ante, vitae volutpat </tspan><tspan x="16.2" y="84" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ligula fringilla in. Vivamus pulvinar laoreet leo. </tspan><tspan x="77.8" y="112" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">Phasellus nulla metus, iaculis ut.</tspan></text>
 	</g>
-	<linearGradient id="XMLID_549_" gradientUnits="userSpaceOnUse" x1="3817.9248" y1="-647.9216" x2="3817.9248" y2="-725.9216">
+	<linearGradient id="XMLID_703_" gradientUnits="userSpaceOnUse" x1="3817.9248" y1="-647.9216" x2="3817.9248" y2="-725.9216">
 		<stop  offset="0" style="stop-color:#FBA200"/>
 		<stop  offset="1" style="stop-color:#FDC801"/>
 	</linearGradient>
@@ -1207,7 +1170,7 @@ taxlLWtZy1rWspa1rOWRlv8LMABTjPn82o1/7gAAAABJRU5ErkJggg==" transform="matrix(1 0 
 </g>
 <g id="Layer_3">
 	<rect id="XMLID_1199_" x="4239.2" y="-1687" class="st0" width="640" height="1136"/>
-	<linearGradient id="XMLID_634_" gradientUnits="userSpaceOnUse" x1="4717.2319" y1="-1193.998" x2="4383.0444" y2="-1705.801">
+	<linearGradient id="XMLID_740_" gradientUnits="userSpaceOnUse" x1="4717.2319" y1="-1193.998" x2="4383.0444" y2="-1705.801">
 		<stop  offset="0" style="stop-color:#FBA200"/>
 		<stop  offset="9.335864e-002" style="stop-color:#FBAA00"/>
 		<stop  offset="0.3551" style="stop-color:#FCBB01"/>
@@ -1218,8 +1181,8 @@ taxlLWtZy1rWspa1rOWRlv8LMABTjPn82o1/7gAAAABJRU5ErkJggg==" transform="matrix(1 0 
 		c0,0-28.9,94-144.3,67.3c-52.5-12.2-100.5,35.2-20.7,74C4802-1314.1,4758.9-1189.3,4709.4-1142.6z"/>
 	<text id="XMLID_534_" transform="matrix(1 0 0 1 4439.1118 -1505.7808)"><tspan x="0" y="0" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:28px;">TAKE A QUIZ TO </tspan><tspan x="-59.6" y="36" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:28px;">TEST YOUR KNOWLEDGE</tspan></text>
 	<g id="XMLID_530_">
-		<rect id="XMLID_791_" x="4331.1" y="-1025" style="fill:none;" width="452.5" height="226"/>
-		<text id="XMLID_777_" transform="matrix(1 0 0 1 4333.5352 -1011.6445)"><tspan x="0" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">Lorem ipsum dolor sit amet, consectetur adipisc</tspan><tspan x="439.2" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">-</tspan><tspan x="16.9" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ing elit. Vivamus ac condimentum tellus. Sus</tspan><tspan x="422.2" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">-</tspan><tspan x="22.5" y="56" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">pendisse hendrerit enim ante, vitae volutpat </tspan><tspan x="16.2" y="84" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ligula fringilla in. Vivamus pulvinar laoreet leo. </tspan><tspan x="77.8" y="112" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">Phasellus nulla metus, iaculis ut.</tspan></text>
+		<rect id="XMLID_1189_" x="4331.1" y="-1025" style="fill:none;" width="452.5" height="226"/>
+		<text id="XMLID_1183_" transform="matrix(1 0 0 1 4333.5352 -1011.6445)"><tspan x="0" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">Lorem ipsum dolor sit amet, consectetur adipisc</tspan><tspan x="439.2" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">-</tspan><tspan x="16.9" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ing elit. Vivamus ac condimentum tellus. Sus</tspan><tspan x="422.2" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">-</tspan><tspan x="22.5" y="56" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">pendisse hendrerit enim ante, vitae volutpat </tspan><tspan x="16.2" y="84" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ligula fringilla in. Vivamus pulvinar laoreet leo. </tspan><tspan x="77.8" y="112" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">Phasellus nulla metus, iaculis ut.</tspan></text>
 	</g>
 	<g id="XMLID_617_">
 		
@@ -1307,7 +1270,7 @@ b0B4Q569/U+w/7F3av839Bv8/kvXSiuttNJKK6200korrbTSSiuttNJKK6200korrbTSSiut3L78
 T4ABABgiXnjmRhgrAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 4421 -1259)">
 		</image>
 	</g>
-	<linearGradient id="XMLID_662_" gradientUnits="userSpaceOnUse" x1="4557.3228" y1="-647.9216" x2="4557.3228" y2="-725.9216">
+	<linearGradient id="XMLID_743_" gradientUnits="userSpaceOnUse" x1="4557.3228" y1="-647.9216" x2="4557.3228" y2="-725.9216">
 		<stop  offset="0" style="stop-color:#FBA200"/>
 		<stop  offset="1" style="stop-color:#FDC801"/>
 	</linearGradient>
@@ -1620,7 +1583,7 @@ tNJKK6200korrbTSSiuttNJKK6208raX/wkwAOwGedM4/E0NAAAAAElFTkSuQmCC" transform="mat
 </g>
 <g id="Layer_4">
 	<rect id="XMLID_1200_" x="4986.3" y="-1687" class="st0" width="640" height="1136"/>
-	<linearGradient id="XMLID_664_" gradientUnits="userSpaceOnUse" x1="5464.3086" y1="-1193.9978" x2="5130.1211" y2="-1705.8015">
+	<linearGradient id="XMLID_744_" gradientUnits="userSpaceOnUse" x1="5464.3086" y1="-1193.9978" x2="5130.1211" y2="-1705.8015">
 		<stop  offset="0" style="stop-color:#FBA200"/>
 		<stop  offset="9.335864e-002" style="stop-color:#FBAA00"/>
 		<stop  offset="0.3551" style="stop-color:#FCBB01"/>
@@ -2270,10 +2233,10 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADyZAAMAnG8AAYE7VRYAAAAASUVORK5CYII=" transf
 	</g>
 	<text id="XMLID_636_" transform="matrix(1 0 0 1 5233.8564 -1505.7808)"><tspan x="0" y="0" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:28px;">BE A PRO </tspan><tspan x="-61" y="36" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:28px;">SOFTBALL PLAYER</tspan></text>
 	<g id="XMLID_910_">
-		<rect id="XMLID_776_" x="5078.2" y="-1025" style="fill:none;" width="452.5" height="226"/>
-		<text id="XMLID_771_" transform="matrix(1 0 0 1 5080.6099 -1011.6445)"><tspan x="0" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">Lorem ipsum dolor sit amet, consectetur adipisc</tspan><tspan x="439.2" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">-</tspan><tspan x="16.9" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ing elit. Vivamus ac condimentum tellus. Sus</tspan><tspan x="422.2" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">-</tspan><tspan x="22.5" y="56" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">pendisse hendrerit enim ante, vitae volutpat </tspan><tspan x="16.2" y="84" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ligula fringilla in. Vivamus pulvinar laoreet leo. </tspan><tspan x="77.8" y="112" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">Phasellus nulla metus, iaculis ut.</tspan></text>
+		<rect id="XMLID_1191_" x="5078.2" y="-1025" style="fill:none;" width="452.5" height="226"/>
+		<text id="XMLID_1190_" transform="matrix(1 0 0 1 5080.6099 -1011.6445)"><tspan x="0" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">Lorem ipsum dolor sit amet, consectetur adipisc</tspan><tspan x="439.2" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">-</tspan><tspan x="16.9" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ing elit. Vivamus ac condimentum tellus. Sus</tspan><tspan x="422.2" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">-</tspan><tspan x="22.5" y="56" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">pendisse hendrerit enim ante, vitae volutpat </tspan><tspan x="16.2" y="84" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ligula fringilla in. Vivamus pulvinar laoreet leo. </tspan><tspan x="77.8" y="112" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">Phasellus nulla metus, iaculis ut.</tspan></text>
 	</g>
-	<linearGradient id="XMLID_667_" gradientUnits="userSpaceOnUse" x1="5304.3975" y1="-647.9216" x2="5304.3975" y2="-725.9216">
+	<linearGradient id="XMLID_745_" gradientUnits="userSpaceOnUse" x1="5304.3975" y1="-647.9216" x2="5304.3975" y2="-725.9216">
 		<stop  offset="0" style="stop-color:#FBA200"/>
 		<stop  offset="1" style="stop-color:#FDC801"/>
 	</linearGradient>
@@ -2283,7 +2246,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADyZAAMAnG8AAYE7VRYAAAAASUVORK5CYII=" transf
 		<text id="XMLID_886_" transform="matrix(1 0 0 1 5257.7246 -678.9216)" class="st0" style="font-family:'Montserrat-Regular'; font-size:28px;">FINISH</text>
 </g>
 <g id="Layer_5">
-	<linearGradient id="XMLID_668_" gradientUnits="userSpaceOnUse" x1="6104.5913" y1="-551" x2="6104.5913" y2="-1687">
+	<linearGradient id="XMLID_746_" gradientUnits="userSpaceOnUse" x1="6104.5913" y1="-551" x2="6104.5913" y2="-1687">
 		<stop  offset="0" style="stop-color:#FBA200"/>
 		<stop  offset="1" style="stop-color:#FDC801"/>
 	</linearGradient>
@@ -2293,29 +2256,29 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADyZAAMAnG8AAYE7VRYAAAAASUVORK5CYII=" transf
 			<path id="XMLID_1210_" class="st12" d="M5933-1076.5c1.9,0,1.9-3,0-3C5931.1-1079.5,5931.1-1076.5,5933-1076.5L5933-1076.5z"/>
 		</g>
 	</g>
-	<path id="XMLID_518_" class="st0" d="M6077.3-1141.6h-229.5c-3.3,0-6-2.7-6-6v-377.5c0-3.3,2.7-6,6-6h229.5c3.3,0,6,2.7,6,6v377.5
-		C6083.3-1144.3,6080.7-1141.6,6077.3-1141.6z"/>
+	<path id="XMLID_518_" class="st0" d="M6081.3-1141.6h-237.5c-1.1,0-2-0.9-2-2v-385.5c0-1.1,0.9-2,2-2h237.5c1.1,0,2,0.9,2,2v385.5
+		C6083.3-1142.5,6082.4-1141.6,6081.3-1141.6z"/>
 	<g id="XMLID_1279_">
 		
-			<text id="XMLID_748_" transform="matrix(1 0 0 1 5926.3877 -1170.3187)" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">MATERI</text>
+			<text id="XMLID_922_" transform="matrix(1 0 0 1 5926.3877 -1170.3187)" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">MATERI</text>
 	</g>
 	<path id="XMLID_1312_" class="st0" d="M6361.3-1141.6h-229.5c-3.3,0-6-2.7-6-6v-377.5c0-3.3,2.7-6,6-6h229.5c3.3,0,6,2.7,6,6v377.5
 		C6367.3-1144.3,6364.7-1141.6,6361.3-1141.6z"/>
 	<g id="XMLID_1296_">
 		
-			<text id="XMLID_746_" transform="matrix(1 0 0 1 6223.2368 -1170.3187)" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">QUIZ</text>
+			<text id="XMLID_925_" transform="matrix(1 0 0 1 6223.2368 -1170.3187)" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">QUIZ</text>
 	</g>
 	<path id="XMLID_1318_" class="st0" d="M6077.3-707.8h-229.5c-3.3,0-6-2.7-6-6v-377.5c0-3.3,2.7-6,6-6h229.5c3.3,0,6,2.7,6,6v377.5
 		C6083.3-710.5,6080.7-707.8,6077.3-707.8z"/>
 	<g id="XMLID_1315_">
 		
-			<text id="XMLID_744_" transform="matrix(1 0 0 1 5896.1177 -753.108)" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">SCOREBOARD</text>
+			<text id="XMLID_921_" transform="matrix(1 0 0 1 5896.1177 -753.108)" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">SCOREBOARD</text>
 	</g>
 	<path id="XMLID_1314_" class="st0" d="M6361.3-706.8h-229.5c-3.3,0-6-2.7-6-6v-377.5c0-3.3,2.7-6,6-6h229.5c3.3,0,6,2.7,6,6v377.5
 		C6367.3-709.5,6364.7-706.8,6361.3-706.8z"/>
 	<g id="XMLID_1310_">
 		
-			<text id="XMLID_745_" transform="matrix(1 0 0 1 6213.6528 -753.108)" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ABOUT</text>
+			<text id="XMLID_905_" transform="matrix(1 0 0 1 6213.6528 -753.108)" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:18px;">ABOUT</text>
 	</g>
 	<g id="XMLID_837_">
 		<path id="XMLID_933_" class="st33" d="M6298.8-1326c0,0,0.1-0.1,0.1-0.1c0,0,0,0,0,0c0,0,0.1-0.1,0.1-0.1c0,0,0,0,0,0
@@ -2437,65 +2400,725 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADyZAAMAnG8AAYE7VRYAAAAASUVORK5CYII=" transf
 		</g>
 	</g>
 	<g id="XMLID_1187_">
-		<path id="XMLID_1188_" class="st33" d="M5997.6-1436.2v131.9h40.4v-131.9H5997.6z M6035-1308.1h-34.3v-124.3h34.3V-1308.1z
-			 M6028.1-1411.2h-20.5v-5.7h20.5L6028.1-1411.2L6028.1-1411.2z M6028.1-1401.8h-20.5v-5.7h20.5V-1401.8z M6007.6-1330.2h20.5v5.7
-			h-20.5V-1330.2z M5954.5-1430.3l-37.9-8.7l-29.5,128.6l39.4,9l27.9-121.9v120.3h40.5v-131.9h-40.5V-1430.3z M5924-1306l-32.8-7.9
-			l28-120.6l32.6,8L5924-1306z M5957.9-1432.4h33.6v80.7h-33.6V-1432.4z M5964.9-1339.9v-5.3h20.3v5.3H5964.9z M5985.2-1336.4v5.3
-			h-20.3v-5.3H5985.2z M5957.9-1324.1h33.6v18.1h-33.6V-1324.1z M5964.5-1416.8h20.5v5.7h-20.5V-1416.8z M5908.9-1350.2l15.4-67
-			l5.1,1.2l-15.4,67L5908.9-1350.2z M5919.1-1347.8l15.4-67l5.1,1.2l-15.4,67L5919.1-1347.8z"/>
+		<path id="XMLID_1188_" class="st33" d="M5997.6-1434.2v127.9c0,1.1,0.9,2,2,2h36.4c1.1,0,2-0.9,2-2v-127.9c0-1.1-0.9-2-2-2h-36.4
+			C5998.5-1436.2,5997.6-1435.3,5997.6-1434.2z M6035-1308.1h-34.3v-124.3h34.3V-1308.1z M6028.1-1411.2h-20.5v-5.7h20.5
+			L6028.1-1411.2L6028.1-1411.2z M6028.1-1401.8h-20.5v-5.7h20.5V-1401.8z M6007.6-1330.2h20.5v5.7h-20.5V-1330.2z M5954.5-1430.3
+			l-36-8.2c-1.1-0.2-2.1,0.4-2.4,1.5l-28.6,124.7c-0.2,1.1,0.4,2.1,1.5,2.4l35.5,8.1c1.1,0.2,2.1-0.4,2.4-1.5l27.5-119.9v118.3
+			c0,1.1,0.9,2,2,2h36.5c1.1,0,2-0.9,2-2v-127.9c0-1.1-0.9-2-2-2h-36.5c-1.1,0-2,0.9-2,2V-1430.3z M5924-1306l-32.8-7.9l28-120.6
+			l32.6,8L5924-1306z M5957.9-1432.4h33.6v80.7h-33.6V-1432.4z M5964.9-1339.9v-5.3h20.3v5.3H5964.9z M5985.2-1336.4v5.3h-20.3v-5.3
+			H5985.2z M5957.9-1324.1h33.6v18.1h-33.6V-1324.1z M5964.5-1416.8h20.5v5.7h-20.5V-1416.8z M5908.9-1350.2l15.4-67l5.1,1.2
+			l-15.4,67L5908.9-1350.2z M5919.1-1347.8l15.4-67l5.1,1.2l-15.4,67L5919.1-1347.8z"/>
 	</g>
 	<rect id="XMLID_1278_" x="6582.8" y="-1520.2" style="fill:none;" width="19.6" height="224.2"/>
 	
 		<text id="XMLID_1274_" transform="matrix(1 0 0 1 6582.8247 -1503.8333)" class="st0" style="font-family:'Montserrat-Regular'; font-size:22px;">1. </text>
+	<rect id="XMLID_1354_" x="7341.5" y="-1520.2" style="fill:none;" width="19.6" height="224.2"/>
+	
+		<text id="XMLID_1345_" transform="matrix(1 0 0 1 7341.5098 -1503.8333)" class="st0" style="font-family:'Montserrat-Regular'; font-size:22px;">1. </text>
+	<rect id="XMLID_1645_" x="8126.3" y="-1520.2" style="fill:none;" width="19.6" height="224.2"/>
+	
+		<text id="XMLID_1644_" transform="matrix(1 0 0 1 8126.2871 -1503.8333)" class="st0" style="font-family:'Montserrat-Regular'; font-size:22px;">1. </text>
+	<g id="XMLID_1263_">
+		
+			<text id="XMLID_903_" transform="matrix(1 0 0 1 6058.7285 -1615)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">HOME </text>
+	</g>
 </g>
 <g id="Layer_6">
-	<linearGradient id="XMLID_670_" gradientUnits="userSpaceOnUse" x1="6845.5693" y1="-551" x2="6845.5693" y2="-1687">
+	<linearGradient id="XMLID_748_" gradientUnits="userSpaceOnUse" x1="6845.5693" y1="-551" x2="6845.5693" y2="-1687">
 		<stop  offset="0" style="stop-color:#FBA200"/>
 		<stop  offset="1" style="stop-color:#FDC801"/>
 	</linearGradient>
-	<rect id="XMLID_1328_" x="6525.6" y="-1687" class="st47" width="640" height="1136"/>
-	<g id="XMLID_1319_">
-		<g id="XMLID_1321_">
-			<path id="XMLID_1327_" class="st12" d="M6674-1076.5c1.9,0,1.9-3,0-3C6672-1079.5,6672-1076.5,6674-1076.5L6674-1076.5z"/>
+	<rect id="XMLID_1486_" x="6525.6" y="-1687" class="st47" width="640" height="1136"/>
+	<g id="XMLID_1479_">
+		<g id="XMLID_1481_">
+			<path id="XMLID_1485_" class="st12" d="M6674-1076.5c1.9,0,1.9-3,0-3C6672-1079.5,6672-1076.5,6674-1076.5L6674-1076.5z"/>
 		</g>
 	</g>
-	<rect id="XMLID_1297_" x="6622.8" y="-1520.2" style="fill:none;" width="475.7" height="224.2"/>
-	<text id="XMLID_1292_" transform="matrix(1 0 0 1 6622.8311 -1505.3176)"><tspan x="0" y="0" class="st0" style="font-family:'Montserrat-Regular'; font-size:20px;">Lorem ipsum dolor sit amet, consectetur za</tspan><tspan x="439.3" y="0" class="st0" style="font-family:'Montserrat-Regular'; font-size:20px;">-</tspan><tspan x="0" y="36" class="st0" style="font-family:'Montserrat-Regular'; font-size:20px;">dipiscing elit. Vivamus ac condimentum tellus. </tspan><tspan x="0" y="72" class="st0" style="font-family:'Montserrat-Regular'; font-size:20px;">Suspendisse hendrerit enim ante, vitae volut</tspan><tspan x="449.7" y="72" class="st0" style="font-family:'Montserrat-Regular'; font-size:20px;">-</tspan><tspan x="0" y="108" class="st0" style="font-family:'Montserrat-Regular'; font-size:20px;">pat ligula fringilla in. Vivamus pulvinar laoreet </tspan><tspan x="0" y="144" class="st0" style="font-family:'Montserrat-Regular'; font-size:20px;">leo. Phasellus nulla metus, iaculis ut.? </tspan></text>
-	<g id="XMLID_856_">
-		<path id="XMLID_1293_" class="st0" d="M7102.3-1016.1h-513.5c-3.3,0-6-2.7-6-6V-1130c0-3.3,2.7-6,6-6h513.5c3.3,0,6,2.7,6,6v107.9
-			C7108.3-1018.8,7105.6-1016.1,7102.3-1016.1z"/>
-		<g id="XMLID_918_">
-			<rect id="XMLID_860_" x="6622.8" y="-1085.5" style="fill:none;" width="445.5" height="18.9"/>
+	<rect id="XMLID_1478_" x="6622.8" y="-1520.2" style="fill:none;" width="475.7" height="224.2"/>
+	<text id="XMLID_1477_" transform="matrix(1 0 0 1 6622.8311 -1500.8655)"><tspan x="0" y="0" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">Apa yang dimaksud dengan bola </tspan><tspan x="0" y="36" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">strike . . . ?</tspan></text>
+	<rect id="XMLID_1476_" x="6582.8" y="-1520.2" style="fill:none;" width="19.6" height="224.2"/>
+	
+		<text id="XMLID_1475_" transform="matrix(1 0 0 1 6582.8242 -1505.3176)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:20px;">1.</text>
+	<g id="XMLID_1455_">
+		<path id="XMLID_1474_" class="st0" d="M7102.3-1288.1h-513.5c-3.3,0-6-2.7-6-6v-107.9c0-3.3,2.7-6,6-6h513.5c3.3,0,6,2.7,6,6
+			v107.9C7108.3-1290.8,7105.6-1288.1,7102.3-1288.1z"/>
+		<g id="XMLID_1469_">
+			<rect id="XMLID_1248_" x="6622.8" y="-1384.2" style="fill:none;" width="445.5" height="83.7"/>
+			<text id="XMLID_1247_" transform="matrix(1 0 0 1 6622.8315 -1373.8306)"><tspan x="0" y="0" style="fill:#C7C7C7;stroke:#C7C7C7;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:14px;">A.</tspan><tspan x="14.3" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;"> Bola lemparan yang berada di atas bahu dan diatas lutut </tspan><tspan x="0" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;">seorang batter dan melewati home palate pada saat batter </tspan><tspan x="0" y="56" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;">posisi normal memukul</tspan></text>
+		</g>
+	</g>
+	<g id="XMLID_1391_">
+		<path id="XMLID_1452_" class="st0" d="M7102.3-1133.9h-513.5c-3.3,0-6-2.7-6-6v-107.9c0-3.3,2.7-6,6-6h513.5c3.3,0,6,2.7,6,6
+			v107.9C7108.3-1136.6,7105.6-1133.9,7102.3-1133.9z"/>
+		<g id="XMLID_1393_">
+			<rect id="XMLID_1464_" x="6622.8" y="-1230" style="fill:none;" width="445.5" height="83.7"/>
+			<text id="XMLID_1251_" transform="matrix(1 0 0 1 6622.8315 -1219.6282)"><tspan x="0" y="0" style="fill:#C7C7C7;stroke:#C7C7C7;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:14px;">B.</tspan><tspan x="13.8" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;"> Bola lemparan yang berada di bawah bahu dan diatas lutut </tspan><tspan x="0" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;">seorang batter dan tidak melewati home palate pada saat </tspan><tspan x="0" y="56" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;">batter posisi normal memukul</tspan></text>
+		</g>
+	</g>
+	<g id="XMLID_1378_">
+		<path id="XMLID_1390_" class="st0" d="M7102.3-979.8h-513.5c-3.3,0-6-2.7-6-6v-107.9c0-3.3,2.7-6,6-6h513.5c3.3,0,6,2.7,6,6v107.9
+			C7108.3-982.5,7105.6-979.8,7102.3-979.8z"/>
+		<g id="XMLID_1381_">
+			<rect id="XMLID_1467_" x="6622.8" y="-1075.9" style="fill:none;" width="445.5" height="83.7"/>
+			<text id="XMLID_1465_" transform="matrix(1 0 0 1 6622.8315 -1065.509)"><tspan x="0" y="0" style="fill:#C7C7C7;stroke:#C7C7C7;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:14px;">C.</tspan><tspan x="14.2" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;"> Bola lemparan yang berada di bawah bahu dan diatas lutut </tspan><tspan x="0" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;">seorang batter dan melewati home palate pada saat batter </tspan><tspan x="0" y="56" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;">posisi normal memukul</tspan></text>
+		</g>
+	</g>
+	<g id="XMLID_1271_">
+		<path id="XMLID_1359_" class="st0" d="M7102.3-825.7h-513.5c-3.3,0-6-2.7-6-6v-107.9c0-3.3,2.7-6,6-6h513.5c3.3,0,6,2.7,6,6v107.9
+			C7108.3-828.3,7105.6-825.7,7102.3-825.7z"/>
+		<g id="XMLID_1272_">
+			<rect id="XMLID_1470_" x="6622.8" y="-921.7" style="fill:none;" width="445.5" height="83.7"/>
+			<text id="XMLID_1468_" transform="matrix(1 0 0 1 6622.8315 -911.3479)"><tspan x="0" y="0" style="fill:#C7C7C7;stroke:#C7C7C7;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:14px;">D.</tspan><tspan x="14.9" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;"> Bola lemparan yang berada di bawah bahu dan bawah lutut </tspan><tspan x="0" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;">seorang batter dan melewati home palate pada saat batter </tspan><tspan x="0" y="56" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;">posisi normal memukul</tspan></text>
+		</g>
+	</g>
+	<g id="XMLID_1205_">
+		<path id="XMLID_1269_" class="st0" d="M7102.3-671.5h-513.5c-3.3,0-6-2.7-6-6v-107.9c0-3.3,2.7-6,6-6h513.5c3.3,0,6,2.7,6,6v107.9
+			C7108.3-674.2,7105.6-671.5,7102.3-671.5z"/>
+		<g id="XMLID_1207_">
+			<rect id="XMLID_1472_" x="6622.8" y="-767.6" style="fill:none;" width="445.5" height="83.7"/>
+			<text id="XMLID_1471_" transform="matrix(1 0 0 1 6622.8315 -757.1876)"><tspan x="0" y="0" style="fill:#C7C7C7;stroke:#C7C7C7;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:14px;">E.</tspan><tspan x="13.1" y="0" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;"> Bola lemparan yang berada di bawah bahu dan bawah lutut </tspan><tspan x="0" y="28" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;">seorang batter dan melewati home palate pada saat batter </tspan><tspan x="0" y="56" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:14px;">posisi normal memukul</tspan></text>
+		</g>
+	</g>
+	<g id="XMLID_1196_">
+		
+			<text id="XMLID_900_" transform="matrix(1 0 0 1 6811.835 -1615)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">QUIZ</text>
+	</g>
+	<rect id="XMLID_1683_" x="7341.5" y="-1520.2" style="fill:none;" width="19.6" height="224.2"/>
+	
+		<text id="XMLID_1682_" transform="matrix(1 0 0 1 7341.5098 -1505.3176)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:20px;">1.</text>
+	<rect id="XMLID_1643_" x="8126.3" y="-1520.2" style="fill:none;" width="19.6" height="224.2"/>
+	
+		<text id="XMLID_1642_" transform="matrix(1 0 0 1 8126.2871 -1505.3176)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:20px;">1.</text>
+</g>
+<g id="Layer_7">
+	<linearGradient id="XMLID_750_" gradientUnits="userSpaceOnUse" x1="7604.2544" y1="-551" x2="7604.2544" y2="-1687">
+		<stop  offset="0" style="stop-color:#FBA200"/>
+		<stop  offset="1" style="stop-color:#FDC801"/>
+	</linearGradient>
+	<rect id="XMLID_1344_" x="7284.3" y="-1687" class="st48" width="640" height="1136"/>
+	<g id="XMLID_1337_">
+		<g id="XMLID_1339_">
+			<path id="XMLID_1343_" class="st12" d="M7432.7-1076.5c1.9,0,1.9-3,0-3C7430.7-1079.5,7430.7-1076.5,7432.7-1076.5L7432.7-1076.5
+				z"/>
+		</g>
+	</g>
+	<g id="XMLID_1004_">
+		
+			<text id="XMLID_894_" transform="matrix(1 0 0 1 7508.2368 -1615)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">SCOREBOARD</text>
+	</g>
+	<line id="XMLID_1203_" class="st49" x1="7284.3" y1="-1286.5" x2="7924.3" y2="-1286.5"/>
+	<line id="XMLID_1211_" class="st49" x1="7284.3" y1="-1164" x2="7924.3" y2="-1164"/>
+	<line id="XMLID_1240_" class="st49" x1="7283.6" y1="-1041.4" x2="7924.3" y2="-1041.4"/>
+	<line id="XMLID_1250_" class="st49" x1="7284.3" y1="-918.8" x2="7924.3" y2="-918.8"/>
+	<line id="XMLID_1253_" class="st49" x1="7284.3" y1="-796.2" x2="7924.3" y2="-796.2"/>
+	<line id="XMLID_1261_" class="st49" x1="7283.6" y1="-673.6" x2="7924.9" y2="-673.6"/>
+	<line id="XMLID_1270_" class="st49" x1="7284.4" y1="-551" x2="7925.1" y2="-551"/>
+	<rect id="XMLID_1195_" x="7284.3" y="-1531" class="st0" width="640" height="123.1"/>
+	<g id="XMLID_742_">
+		<g id="XMLID_878_">
+			<path id="XMLID_1537_" class="st50" d="M7366.9-1464.3c-1.2,1.2-1.8,3-1.5,4.7l2.7,16l-14.3-7.5c-2.5-0.8-2.5-0.8-4.9,0
+				l-14.3,7.5l2.7-16c0.3-1.7-0.3-3.4-1.5-4.7l-11.6-11.3l16-2.3c1.7-0.3,3.2-1.3,4-2.9l7.2-14.5l7.2,14.5c0.8,1.6,2.3,2.7,4,2.9
+				l16,2.3L7366.9-1464.3z"/>
 			
-				<text id="XMLID_859_" transform="matrix(1 0 0 1 6622.8315 -1070.7019)" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:20px;">A. Lorem ipsum dolor sit amet</text>
+				<text id="XMLID_1564_" transform="matrix(1 0 0 1 7345.355 -1461.1724)" class="st33" style="font-family:'Montserrat-Regular'; font-size:18px;">1.</text>
 		</g>
-	</g>
-	<g id="XMLID_1302_">
-		<path id="XMLID_1316_" class="st0" d="M7102.3-862h-513.5c-3.3,0-6-2.7-6-6v-107.9c0-3.3,2.7-6,6-6h513.5c3.3,0,6,2.7,6,6V-868
-			C7108.3-864.7,7105.6-862,7102.3-862z"/>
-		<g id="XMLID_1303_">
-			<rect id="XMLID_862_" x="6622.8" y="-931.4" style="fill:none;" width="445.5" height="18.9"/>
+		<g id="XMLID_1591_">
 			
-				<text id="XMLID_861_" transform="matrix(1 0 0 1 6622.8315 -916.5828)" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:20px;">A. Lorem ipsum dolor sit amet</text>
+				<text id="XMLID_890_" transform="matrix(1 0 0 1 7412.7388 -1461.6558)" class="st33" style="font-family:'Montserrat-Regular'; font-size:26px;">Ridho Saputra</text>
 		</g>
-	</g>
-	<g id="XMLID_1294_">
-		<path id="XMLID_1341_" class="st0" d="M7102.3-707.8h-513.5c-3.3,0-6-2.7-6-6v-107.9c0-3.3,2.7-6,6-6h513.5c3.3,0,6,2.7,6,6v107.9
-			C7108.3-710.5,7105.6-707.8,7102.3-707.8z"/>
-		<g id="XMLID_1304_">
-			<rect id="XMLID_864_" x="6622.8" y="-777.3" style="fill:none;" width="445.5" height="18.9"/>
+		<g id="XMLID_1593_">
 			
-				<text id="XMLID_863_" transform="matrix(1 0 0 1 6622.8315 -762.422)" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:20px;">A. Lorem ipsum dolor sit amet</text>
+				<text id="XMLID_876_" transform="matrix(1 0 0 1 7744.2222 -1461.6558)" style="fill:#FCB533;stroke:#FCB533;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">615 Points</text>
 		</g>
 	</g>
-	<g id="XMLID_1299_">
-		<path id="XMLID_1308_" class="st0" d="M7102.3-1170.3h-513.5c-3.3,0-6-2.7-6-6v-107.9c0-3.3,2.7-6,6-6h513.5c3.3,0,6,2.7,6,6
-			v107.9C7108.3-1173,7105.6-1170.3,7102.3-1170.3z"/>
-		<g id="XMLID_1300_">
-			<rect id="XMLID_866_" x="6622.8" y="-1239.7" style="fill:none;" width="445.5" height="18.9"/>
+	<g id="XMLID_770_">
+		<g id="XMLID_888_">
+			<path id="XMLID_1592_" class="st51" d="M7366.9-1342.9c-1.2,1.2-1.8,3-1.5,4.7l2.7,16l-14.3-7.5c-2.5-0.8-2.5-0.8-4.9,0
+				l-14.3,7.5l2.7-16c0.3-1.7-0.3-3.4-1.5-4.7l-11.6-11.3l16-2.3c1.7-0.3,3.2-1.3,4-2.9l7.2-14.5l7.2,14.5c0.8,1.6,2.3,2.7,4,2.9
+				l16,2.3L7366.9-1342.9z"/>
 			
-				<text id="XMLID_865_" transform="matrix(1 0 0 1 6622.8315 -1224.9042)" style="fill:#C7C7C7; font-family:'Montserrat-Regular'; font-size:20px;">A. Lorem ipsum dolor sit amet</text>
+				<text id="XMLID_889_" transform="matrix(1 0 0 1 7343.4829 -1339.8235)" class="st0" style="font-family:'Montserrat-Regular'; font-size:18px;">2.</text>
+		</g>
+		<g id="XMLID_882_">
+			
+				<text id="XMLID_874_" transform="matrix(1 0 0 1 7412.7388 -1340.3069)" class="st0" style="font-family:'Montserrat-Regular'; font-size:26px;">Anonymous</text>
+		</g>
+		<g id="XMLID_879_">
+			
+				<text id="XMLID_870_" transform="matrix(1 0 0 1 7744.2222 -1340.3069)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">610 Points</text>
 		</g>
 	</g>
+	<g id="XMLID_776_">
+		<g id="XMLID_881_">
+			<path id="XMLID_887_" class="st51" d="M7366.9-1219.4c-1.2,1.2-1.8,3-1.5,4.7l2.7,16l-14.3-7.5c-2.5-0.8-2.5-0.8-4.9,0l-14.3,7.5
+				l2.7-16c0.3-1.7-0.3-3.4-1.5-4.7l-11.6-11.3l16-2.3c1.7-0.3,3.2-1.3,4-2.9l7.2-14.5l7.2,14.5c0.8,1.6,2.3,2.7,4,2.9l16,2.3
+				L7366.9-1219.4z"/>
+			
+				<text id="XMLID_883_" transform="matrix(1 0 0 1 7343.5825 -1216.2545)" class="st0" style="font-family:'Montserrat-Regular'; font-size:18px;">3.</text>
+		</g>
+		<g id="XMLID_859_">
+			
+				<text id="XMLID_867_" transform="matrix(1 0 0 1 7412.7388 -1216.7379)" class="st0" style="font-family:'Montserrat-Regular'; font-size:26px;">Anonymous</text>
+		</g>
+		<g id="XMLID_856_">
+			
+				<text id="XMLID_865_" transform="matrix(1 0 0 1 7744.2222 -1216.7379)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">550 Points</text>
+		</g>
+	</g>
+	<g id="XMLID_857_">
+		<g id="XMLID_897_">
+			<path id="XMLID_899_" class="st51" d="M7366.9-1095.8c-1.2,1.2-1.8,3-1.5,4.7l2.7,16l-14.3-7.5c-2.5-0.8-2.5-0.8-4.9,0l-14.3,7.5
+				l2.7-16c0.3-1.7-0.3-3.4-1.5-4.7l-11.6-11.3l16-2.3c1.7-0.3,3.2-1.3,4-2.9l7.2-14.5l7.2,14.5c0.8,1.6,2.3,2.7,4,2.9l16,2.3
+				L7366.9-1095.8z"/>
+			
+				<text id="XMLID_898_" transform="matrix(1 0 0 1 7343.6362 -1092.6857)" class="st0" style="font-family:'Montserrat-Regular'; font-size:18px;">4.</text>
+		</g>
+		<g id="XMLID_892_">
+			
+				<text id="XMLID_862_" transform="matrix(1 0 0 1 7412.7388 -1093.1691)" class="st0" style="font-family:'Montserrat-Regular'; font-size:26px;">Anonymous</text>
+		</g>
+		<g id="XMLID_858_">
+			
+				<text id="XMLID_860_" transform="matrix(1 0 0 1 7744.2222 -1093.1691)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">500 Points</text>
+		</g>
+	</g>
+	<g id="XMLID_864_">
+		<g id="XMLID_914_">
+			<path id="XMLID_918_" class="st51" d="M7366.9-972.2c-1.2,1.2-1.8,3-1.5,4.7l2.7,16l-14.3-7.5c-2.5-0.8-2.5-0.8-4.9,0l-14.3,7.5
+				l2.7-16c0.3-1.7-0.3-3.4-1.5-4.7l-11.6-11.3l16-2.3c1.7-0.3,3.2-1.3,4-2.9l7.2-14.5l7.2,14.5c0.8,1.6,2.3,2.7,4,2.9l16,2.3
+				L7366.9-972.2z"/>
+			
+				<text id="XMLID_915_" transform="matrix(1 0 0 1 7343.5737 -969.1167)" class="st0" style="font-family:'Montserrat-Regular'; font-size:18px;">5.</text>
+		</g>
+		<g id="XMLID_902_">
+			
+				<text id="XMLID_839_" transform="matrix(1 0 0 1 7412.7388 -969.6002)" class="st0" style="font-family:'Montserrat-Regular'; font-size:26px;">Anonymous</text>
+		</g>
+		<g id="XMLID_880_">
+			
+				<text id="XMLID_1435_" transform="matrix(1 0 0 1 7744.2222 -969.6002)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">450 Points</text>
+		</g>
+	</g>
+	<g id="XMLID_893_">
+		<g id="XMLID_1605_">
+			<path id="XMLID_1607_" class="st51" d="M7366.9-848.7c-1.2,1.2-1.8,3-1.5,4.7l2.7,16l-14.3-7.5c-2.5-0.8-2.5-0.8-4.9,0l-14.3,7.5
+				l2.7-16c0.3-1.7-0.3-3.4-1.5-4.7l-11.6-11.3l16-2.3c1.7-0.3,3.2-1.3,4-2.9l7.2-14.5l7.2,14.5c0.8,1.6,2.3,2.7,4,2.9l16,2.3
+				L7366.9-848.7z"/>
+			
+				<text id="XMLID_1606_" transform="matrix(1 0 0 1 7343.2046 -845.5479)" class="st0" style="font-family:'Montserrat-Regular'; font-size:18px;">6.</text>
+		</g>
+		<g id="XMLID_1600_">
+			
+				<text id="XMLID_1438_" transform="matrix(1 0 0 1 7412.7388 -846.0313)" class="st0" style="font-family:'Montserrat-Regular'; font-size:26px;">Anonymous</text>
+		</g>
+		<g id="XMLID_896_">
+			
+				<text id="XMLID_1441_" transform="matrix(1 0 0 1 7744.2222 -846.0313)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">455 Points</text>
+		</g>
+	</g>
+	<g id="XMLID_904_">
+		<g id="XMLID_1615_">
+			<path id="XMLID_1617_" class="st51" d="M7366.9-725.1c-1.2,1.2-1.8,3-1.5,4.7l2.7,16l-14.3-7.5c-2.5-0.8-2.5-0.8-4.9,0l-14.3,7.5
+				l2.7-16c0.3-1.7-0.3-3.4-1.5-4.7l-11.6-11.3l16-2.3c1.7-0.3,3.2-1.3,4-2.9l7.2-14.5l7.2,14.5c0.8,1.6,2.3,2.7,4,2.9l16,2.3
+				L7366.9-725.1z"/>
+			
+				<text id="XMLID_1616_" transform="matrix(1 0 0 1 7343.6899 -721.9789)" class="st0" style="font-family:'Montserrat-Regular'; font-size:18px;">7.</text>
+		</g>
+		<g id="XMLID_1610_">
+			
+				<text id="XMLID_1444_" transform="matrix(1 0 0 1 7412.7388 -722.4623)" class="st0" style="font-family:'Montserrat-Regular'; font-size:26px;">Anonymous</text>
+		</g>
+		<g id="XMLID_912_">
+			
+				<text id="XMLID_1453_" transform="matrix(1 0 0 1 7744.2222 -722.4623)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">440 Points</text>
+		</g>
+	</g>
+	<g id="XMLID_1602_">
+		<g id="XMLID_1625_">
+			<path id="XMLID_1627_" class="st51" d="M7366.9-601.5c-1.2,1.2-1.8,3-1.5,4.7l2.7,16l-14.3-7.5c-2.5-0.8-2.5-0.8-4.9,0l-14.3,7.5
+				l2.7-16c0.3-1.7-0.3-3.4-1.5-4.7l-11.6-11.3l16-2.3c1.7-0.3,3.2-1.3,4-2.9l7.2-14.5l7.2,14.5c0.8,1.6,2.3,2.7,4,2.9l16,2.3
+				L7366.9-601.5z"/>
+			
+				<text id="XMLID_1626_" transform="matrix(1 0 0 1 7343.0601 -598.41)" class="st0" style="font-family:'Montserrat-Regular'; font-size:18px;">8.</text>
+		</g>
+		<g id="XMLID_1620_">
+			
+				<text id="XMLID_1461_" transform="matrix(1 0 0 1 7412.7388 -598.8934)" class="st0" style="font-family:'Montserrat-Regular'; font-size:26px;">Anonymous</text>
+		</g>
+		<g id="XMLID_1604_">
+			
+				<text id="XMLID_1462_" transform="matrix(1 0 0 1 7744.2222 -598.8934)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">400 Points</text>
+		</g>
+	</g>
+	<linearGradient id="XMLID_756_" gradientUnits="userSpaceOnUse" x1="8389.0322" y1="-551" x2="8389.0322" y2="-1687">
+		<stop  offset="0" style="stop-color:#FBA200"/>
+		<stop  offset="1" style="stop-color:#FDC801"/>
+	</linearGradient>
+	<rect id="XMLID_1641_" x="8069" y="-1687" class="st52" width="640" height="1136"/>
+	<g id="XMLID_1634_">
+		<g id="XMLID_1636_">
+			<path id="XMLID_1640_" class="st12" d="M8217.4-1076.5c1.9,0,1.9-3,0-3C8215.5-1079.5,8215.5-1076.5,8217.4-1076.5L8217.4-1076.5
+				z"/>
+		</g>
+	</g>
+	<g id="XMLID_1633_">
+		
+			<text id="XMLID_1463_" transform="matrix(1 0 0 1 8341.4531 -1615)" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10; font-family:'Montserrat-Regular'; font-size:26px;">ABOUT</text>
+	</g>
+</g>
+<g id="Layer_8">
+	<g id="XMLID_1213_" class="st53">
+		<g id="XMLID_1257_" class="st54">
+			<path id="XMLID_1329_" class="st1" d="M1321.3,809.7c-43.2-24.7-90.5-32.5-139.7-33.1c-53.1-0.7-106.3-2.9-159.4-5.1
+				c-15.9-0.7-31.8-3.4-49.2-5.4c0,6.5,0,11.6,0,16.8c0,51.3,0,102.6,0,153.9c0,50.5,0,51.1,50.8,53.3c54.1,2.3,108.2,4,162.3,4.9
+				c45.6,0.8,87.3,13.4,124.3,39.6c17.3,12.2,32.8,27.1,49.7,41.6V836C1347,826.9,1334.7,817.3,1321.3,809.7z"/>
+			<path id="XMLID_1309_" class="st2" d="M1398.9,809.7c43.2-24.7,90.5-32.5,139.7-33.1c53.1-0.7,106.3-2.9,159.4-5.1
+				c15.9-0.7,31.8-3.4,49.2-5.4c0,6.5,0,11.6,0,16.8c0,51.3,0,102.6,0,153.9c0,50.5,0,51.1-50.8,53.3c-54.1,2.3-108.2,4-162.3,4.9
+				c-45.6,0.8-87.3,13.4-124.3,39.6c-17.3,12.2-32.8,27.1-49.7,41.6V836C1373.2,826.9,1385.5,817.3,1398.9,809.7z"/>
+			<path id="XMLID_1287_" class="st3" d="M1753.5,1210.2c2-50.2-23.2-97.8-74.8-121.5c-73.8-33.9-145.3-25.2-214,14
+				c-40,22.8-42,37.1-13.6,73.7c29.9,38.6,71.6,53.2,118,61.8c30.9,5.7,60.7,17.5,90.7,27.7c7.9,2.7,14.5,9.4,24.6,16.2
+				c0,0,6.9-2,35-28.2C1747.2,1227.7,1753.5,1210.2,1753.5,1210.2z"/>
+			<path id="XMLID_1262_" class="st4" d="M1719.1,1253.9c-28.1,26.1-35,28.2-35,28.2c-101.3,60.2-185.8,24.5-269.5-36.3
+				c0,6.8,0,11,0,15.3c0,68.9,0.3,137.7-0.3,206.6c-0.1,11.4,4,16.9,13.9,21.5c43.3,20.4,88.4,34.8,136.3,38.3
+				c63.1,4.7,121.6-9.2,173.5-47c10.3-7.5,15-15.9,14.8-29.5c-0.7-80.3-2.6-160.6,0.5-240.8
+				C1753.5,1210.2,1747.2,1227.7,1719.1,1253.9z"/>
+			<path id="XMLID_1258_" class="st5" d="M1112.2,1074c86.6-8,181.8,25.2,213.6,106.2c4.4,11.2,7.1,23.8,7.2,35.8
+				c0.6,92.1,0.3,184.2,0.3,276.3c0,25.4,0.1,20.8-20.3,20.8c-56,0-112-0.3-168,0.2c-12.8,0.1-16.9-3.4-16.9-16.7
+				c0.5-122.5,0.2-244.9,0.3-367.4C1128.5,1109.8,1127.6,1090.9,1112.2,1074z"/>
+		</g>
+		<g id="XMLID_1214_" class="st54">
+			<g id="XMLID_1230_">
+				<path id="XMLID_1255_" class="st6" d="M1067,1950.7v-10.2c0-7,5.8-11.6,12.8-11.6h50.6c3.1,0,7.5-3.5,7.5-6.6v-9.3
+					c0-3.1-4.4-4.4-7.5-4.4h-37.4c-17.3,0-25.9-9.4-25.9-25.8v-33.6c0-17.9,8.3-25,25-25h60.1c7,0,12.8,3.8,12.8,10.7v10.2
+					c0,7-5.9,12.8-12.8,12.8h-47.5c-3.1,0-3.9,2.3-3.9,5.4v9.1c0,3.1,0.8,5.8,3.9,5.8h38.6c16.4,0,21.7,8,21.7,24.6v33
+					c0,18.3-6,26.8-23.9,26.8h-61.2C1072.8,1962.6,1067,1957.6,1067,1950.7z"/>
+				<path id="XMLID_1252_" class="st6" d="M1208.6,1962.6c-17.3,0-26.8-7.6-26.8-24V1880c0-17.1,9.3-25.4,26.3-25.4h41.9
+					c7,0,12.8,5.5,12.8,12.4v7.1c0,7-5.9,14.3-12.8,14.3h-29.7c-3.1,0-4.8,0.8-4.8,3.9v33c0,4,1.1,7,4.8,7h30
+					c7,0,12.5,4.6,12.5,11.5v6.9c0,7-5.5,12-12.5,12H1208.6z"/>
+				<path id="XMLID_1246_" class="st6" d="M1340.4,1950.7v-58.4c0-3.1-1.4-3.9-4.5-3.9h-29.3v62.3c0,7-4.3,12-11.3,12h-6.9
+					c-7,0-15.6-5-15.6-12V1835c0-7,8.6-10.7,15.6-10.7h6.9c7,0,11.3,3.8,11.3,10.7v19.6h41.5c16.9,0,26,8.4,26,25.4v70.6
+					c0,7-6.2,12-13.2,12h-6.9C1347.1,1962.6,1340.4,1957.6,1340.4,1950.7z"/>
+				<path id="XMLID_1238_" class="st6" d="M1414.9,1962.6c-17.3,0-27.2-7.6-27.2-24V1880c0-17.1,9.8-25.4,26.7-25.4h47.8
+					c16.8,0,26.8,8.4,26.8,25.6v57.6c0,16.9-9.8,24.8-26.4,24.8H1414.9z M1455.2,1892.3c0-3.1-2-3.9-5-3.9h-23.5
+					c-3.1,0-5.2,0.8-5.2,3.9v33c0,4,1.5,7,5.2,7h23.5c3.1,0,5-3.5,5-6.6V1892.3z"/>
+				<path id="XMLID_1235_" class="st6" d="M1528.2,1962.6c-17.3,0-25.7-7.6-25.7-24V1880c0-17.1,8.2-25.4,25.2-25.4h47.8
+					c16.8,0,24.9,8.4,24.9,25.6v57.6c0,16.9-8,24.8-24.5,24.8H1528.2z M1569.9,1892.3c0-3.1-3.5-3.9-6.6-3.9h-23.5
+					c-3.1,0-3.7,0.8-3.7,3.9v33c0,4-0.1,7,3.7,7h23.5c3.1,0,6.6-3.5,6.6-6.6V1892.3z"/>
+				<path id="XMLID_1233_" class="st6" d="M1650.9,1953.4c0,7-5.6,12.6-12.6,12.6h-8.6c-7,0-12.6-5.6-12.6-12.6v-116.6
+					c0-7,5.6-12.6,12.6-12.6h8.6c7,0,12.6,5.6,12.6,12.6V1953.4z"/>
+				<path id="XMLID_1231_" class="st6" d="M1664.4,1950.7v-5.2c0-7,6.1-13.2,13.1-13.2h48.8c2.1,0,5.6-0.5,5.6-2.7v-6.5
+					c0-2-3.5-4.3-5.6-4.3h-40.6c-8.4,0-13.8-1.3-16.9-5.1c-3.2-3.8-4.3-9.2-4.3-17.3v-16.5c0-16.9,7.6-25.2,24.4-25.2h57.5
+					c7,0,12.6,5.5,12.6,12.4v5c0,7-5.7,12.9-12.6,12.9h-48.2c-2.1,0-3.3,0.8-3.3,3v6.5c0,2,1.2,4,3.3,4h40.8c15.3,0,20,6.7,20,22.3
+					v16.9c0,17.1-4.7,24.9-20,24.9h-61.4C1670.6,1962.6,1664.4,1957.6,1664.4,1950.7z"/>
+			</g>
+			<g id="XMLID_1215_">
+				<path id="XMLID_1228_" class="st6" d="M1110.9,1748.2v-99.5H1089c-7,0-11.9-4.6-11.9-11.6V1625c0-7,4.9-10.1,11.9-10.1h78.9
+					c7,0,13.9,3.1,13.9,10.1v12.1c0,7-6.9,11.6-13.9,11.6h-23.2v99.5c0,7-4.6,11.9-11.6,11.9h-9.2
+					C1116.9,1760.1,1110.9,1755.1,1110.9,1748.2z"/>
+				<path id="XMLID_1225_" class="st6" d="M1213.7,1760.1c-18.7,0-28.5-8.3-28.5-26.3v-60.7c0-18,9.5-27.8,27.5-27.8h53.6
+					c17.1,0,26.9,9.6,26.9,27v16.8c0,17.7-9.8,27.1-26.9,27.1h-39.8c-2.4,0-4.2-1-7.6-1.9v8.6c0,3.9,3.4,3.4,7.4,3.4h48.1
+					c6.9,0,12,8,12,14.9v7.1c0,6.9-5.1,11.8-12,11.8H1213.7z M1256,1681.5c0-2.6,0.1-5.8-2.5-5.8h-29.2c-2.7,0-5.4,3.2-5.4,5.8v8
+					c0,2.6,2.7,6.4,5.4,6.4h29.2c2.7,0,2.5-3.8,2.5-6.4V1681.5z"/>
+				<path id="XMLID_1223_" class="st6" d="M1343.8,1750.9c0,7-5.6,12.6-12.6,12.6h-11.9c-7,0-12.6-5.6-12.6-12.6v-123.3
+					c0-7,5.6-12.6,12.6-12.6h11.9c7,0,12.6,5.6,12.6,12.6V1750.9z"/>
+				<path id="XMLID_1221_" class="st6" d="M1425.3,1760.1l-30.9-54.2v42.3c0,7-5.3,11.9-12.3,11.9h-9.4c-7,0-12.1-5-12.1-11.9V1625
+					c0-7,5.1-10.1,12.1-10.1h9.4c7,0,12.3,3.1,12.3,10.1v64.7l28.5-44.4h37.6l-32,48.5l39.2,66.3H1425.3z"/>
+				<path id="XMLID_1218_" class="st6" d="M1500,1760.1c-18.7,0-27.9-8-27.9-25.3v-61.7c0-18,9-27.8,27.3-27.8h51.6
+					c18.1,0,25.7,9.9,25.7,28v60.7c0,17.8-7.4,26.1-25.3,26.1H1500z M1542.9,1686c0-3.9-1-6.9-5-6.9h-25.4c-4,0-6.8,3-6.8,6.9v34.8
+					c0,4.2,2.8,5.6,6.8,5.6h25.4c4,0,5-1.3,5-5.2V1686z"/>
+				<path id="XMLID_1216_" class="st6" d="M1731.2,1760.1c-7,0-12.8-5-12.8-11.9V1686c0-3.9-1.8-6.9-5.8-6.9h-21.2v69.1
+					c0,7-6.5,11.9-13.4,11.9h-9c-7,0-14.7-5-14.7-11.9v-69.1h-19.5c-4,0-7.5,3-7.5,6.9v62.2c0,7-4.1,11.9-11.1,11.9h-9
+					c-7,0-10.3-5-10.3-11.9v-75.1c0-18,6.8-27.8,25.1-27.8h103.2c18.1,0,27,9.9,27,28v74.9c0,7-5.4,11.9-12.4,11.9H1731.2z"/>
+			</g>
+		</g>
+	</g>
+	<g id="XMLID_1375_" class="st53">
+		<path id="XMLID_1401_" class="st55" d="M1973.3,1832.8c0.4-0.5,0.8-1,1.1-1.5c0.1-0.1,0.2-0.3,0.3-0.4c0.4-0.6,0.7-1.1,1-1.7
+			c0.1-0.1,0.1-0.2,0.2-0.3c0.3-0.6,0.6-1.3,0.9-1.9c0-0.1,0.1-0.2,0.1-0.2c0.3-0.7,0.5-1.4,0.8-2.1c0-0.1,0-0.2,0.1-0.3
+			c0.2-0.7,0.4-1.4,0.5-2.2c0-0.2,0.1-0.4,0.1-0.6c0.1-0.6,0.2-1.2,0.3-1.9c0.1-0.8,0.1-1.7,0.1-2.5V591.5
+			c0-14.1-11.4-25.5-25.5-25.5H778.8c-14.1,0-25.5,11.4-25.5,25.5v1548.9c0,14.1,11.4,25.5,25.5,25.5h851.1c0.9,0,1.7,0,2.5-0.1
+			c0.6-0.1,1.3-0.2,1.9-0.3c0.2,0,0.4-0.1,0.6-0.1c0.7-0.1,1.4-0.3,2.1-0.5c0.1,0,0.2,0,0.3-0.1c0.7-0.2,1.4-0.5,2.1-0.7
+			c0.1,0,0.2-0.1,0.3-0.1c0.6-0.3,1.3-0.6,1.9-0.9c0.1-0.1,0.3-0.1,0.4-0.2c0.6-0.3,1.1-0.6,1.6-1c0.2-0.1,0.3-0.2,0.5-0.3
+			c0.5-0.3,1-0.7,1.4-1.1c0.2-0.1,0.4-0.3,0.6-0.4c0.6-0.5,1.1-1,1.7-1.5c0.1-0.1,0.1-0.1,0.2-0.2l323.4-323.4
+			c0.1-0.1,0.1-0.1,0.1-0.2c0.5-0.5,1-1.1,1.5-1.7C1973.1,1833.1,1973.2,1832.9,1973.3,1832.8z M804.3,617.1h1123.4v1174.5h-297.9
+			c-14.1,0-25.5,11.4-25.5,25.5v297.9h-800V617.1z M1891.6,1842.6l-236.2,236.2v-236.2H1891.6z"/>
+		<path id="XMLID_1400_" class="st55" d="M1259.5,889.4H1749c14.1,0,25.5-11.4,25.5-25.5s-11.4-25.5-25.5-25.5h-489.5
+			c-14.1,0-25.5,11.4-25.5,25.5S1245.4,889.4,1259.5,889.4z"/>
+		<path id="XMLID_1399_" class="st55" d="M1033.1,950c5,5,11.5,7.5,18.1,7.5s13.1-2.5,18.1-7.5l136.2-136.2c10-10,10-26.1,0-36.1
+			c-10-10-26.1-10-36.1,0l-118.1,118.1l-33-33c-10-10-26.1-10-36.1,0c-10,10-10,26.1,0,36.1L1033.1,950z"/>
+		<path id="XMLID_1398_" class="st55" d="M1195.8,1102.2c0,14.1,11.4,25.5,25.5,25.5H1749c14.1,0,25.5-11.4,25.5-25.5
+			c0-14.1-11.4-25.5-25.5-25.5h-527.7C1207.2,1076.6,1195.8,1088.1,1195.8,1102.2z"/>
+		<path id="XMLID_1395_" class="st55" d="M1119.2,1008.6H983c-14.1,0-25.5,11.4-25.5,25.5v136.2c0,14.1,11.4,25.5,25.5,25.5h136.2
+			c14.1,0,25.5-11.4,25.5-25.5v-136.2C1144.7,1020,1133.3,1008.6,1119.2,1008.6z M1093.7,1144.7h-85.1v-85.1h85.1V1144.7z"/>
+		<path id="XMLID_1394_" class="st55" d="M1749,1314.9h-527.7c-14.1,0-25.5,11.4-25.5,25.5c0,14.1,11.4,25.5,25.5,25.5H1749
+			c14.1,0,25.5-11.4,25.5-25.5C1774.5,1326.4,1763.1,1314.9,1749,1314.9z"/>
+		<path id="XMLID_1386_" class="st55" d="M1119.2,1246.9H983c-14.1,0-25.5,11.4-25.5,25.5v136.2c0,14.1,11.4,25.5,25.5,25.5h136.2
+			c14.1,0,25.5-11.4,25.5-25.5v-136.2C1144.7,1258.3,1133.3,1246.9,1119.2,1246.9z M1093.7,1383h-85.1v-85.1h85.1V1383z"/>
+		<path id="XMLID_1385_" class="st55" d="M1749,1553.2h-527.7c-14.1,0-25.5,11.4-25.5,25.5c0,14.1,11.4,25.5,25.5,25.5H1749
+			c14.1,0,25.5-11.4,25.5-25.5C1774.5,1564.7,1763.1,1553.2,1749,1553.2z"/>
+		<path id="XMLID_1382_" class="st55" d="M1119.2,1485.1H983c-14.1,0-25.5,11.4-25.5,25.5v136.2c0,14.1,11.4,25.5,25.5,25.5h136.2
+			c14.1,0,25.5-11.4,25.5-25.5v-136.2C1144.7,1496.6,1133.3,1485.1,1119.2,1485.1z M1093.7,1621.3h-85.1v-85.1h85.1V1621.3z"/>
+		<path id="XMLID_1380_" class="st55" d="M1527.7,1791.5h-306.4c-14.1,0-25.5,11.4-25.5,25.5s11.4,25.5,25.5,25.5h306.4
+			c14.1,0,25.5-11.4,25.5-25.5S1541.8,1791.5,1527.7,1791.5z"/>
+		<path id="XMLID_1376_" class="st55" d="M1119.2,1723.4H983c-14.1,0-25.5,11.4-25.5,25.5v136.2c0,14.1,11.4,25.5,25.5,25.5h136.2
+			c14.1,0,25.5-11.4,25.5-25.5V1749C1144.7,1734.9,1133.3,1723.4,1119.2,1723.4z M1093.7,1859.6h-85.1v-85.1h85.1V1859.6z"/>
+	</g>
+	<g id="XMLID_1358_" class="st53">
+		<g id="XMLID_1370_" class="st54">
+			<g id="XMLID_1371_">
+				<path id="XMLID_1372_" class="st33" d="M2163.8,1560.5c-5.4-16.1-19.2-27.7-35.9-30.2l-200.6-29.3l-89.7-181.7
+					c-7.6-15.1-23-24.9-40-24.9s-32.4,9.8-40,24.9l-89.7,181.7l-200.6,29.3c-16.7,2.5-30.5,14.2-35.9,30.2s-0.9,33.7,11.3,45.7
+					l145.2,141.4l-34.3,199.9c-2.8,16.7,4.1,33.4,17.6,43.5c13.9,10.1,31.8,11.3,46.9,3.5l179.5-94.5l179.5,94.5
+					c6.6,3.5,29,9.1,46.9-3.5c13.9-9.8,20.5-26.8,17.6-43.5l-34.3-199.9l145.2-141.4C2164.7,1594.2,2169.1,1576.6,2163.8,1560.5z
+					 M1976.1,1708.1c-14.2,13.7-20.6,33.9-17.6,53.7l31.3,182.9l-164-86.3c-28.3-9.4-28.3-9.4-56.3,0l-164,86.3l31.3-182.9
+					c3.4-19.8-3-39.5-17.6-53.7l-132.7-129.3l183.8-26.6c19.8-3,36.9-15.5,45.5-33.1l82-166.2l82,166.2c9,18,25.8,30.5,45.5,33.1
+					l183.8,26.6L1976.1,1708.1z"/>
+			</g>
+		</g>
+		<g id="XMLID_1365_" class="st54">
+			<g id="XMLID_1366_">
+				<path id="XMLID_1367_" class="st33" d="M1300.6,1560.5c-5.4-16.1-19.2-27.7-35.9-30.2l-200.6-29.3l-89.7-181.7
+					c-7.6-15.1-23-24.9-40-24.9c-17,0-32.4,9.8-40,24.9L804.7,1501l-200.6,29.3c-16.7,2.5-30.5,14.2-35.9,30.2
+					c-5.4,16.1-0.9,33.7,11.3,45.7l145.2,141.4l-34.3,199.9c-2.8,16.7,4.1,33.4,17.6,43.5c13.9,10.1,31.8,11.3,46.9,3.5l179.5-94.5
+					l179.5,94.5c6.6,3.5,29,9.1,46.9-3.5c13.9-9.8,20.5-26.8,17.6-43.5l-34.3-199.9l145.2-141.4
+					C1301.6,1594.2,1306,1576.6,1300.6,1560.5z M1113,1708.1c-14.2,13.7-20.6,33.9-17.6,53.7l31.3,182.9l-164-86.3
+					c-28.3-9.4-28.3-9.4-56.3,0l-164,86.3l31.3-182.9c3.4-19.8-3-39.5-17.6-53.7l-132.7-129.3l183.8-26.6
+					c19.8-3,36.9-15.5,45.5-33.1l82-166.2l82,166.2c9,18,25.8,30.5,45.5,33.1l183.8,26.6L1113,1708.1z"/>
+			</g>
+		</g>
+		<g id="XMLID_1360_" class="st54">
+			<g id="XMLID_1361_">
+				<path id="XMLID_1362_" class="st33" d="M1732,998.5c-5.4-16.1-19.2-27.7-35.9-30.2L1495.5,939l-89.7-181.7
+					c-7.6-15.1-23-24.9-40-24.9c-17,0-32.4,9.8-40,24.9L1236.1,939l-200.6,29.3c-16.7,2.5-30.5,14.2-35.9,30.2
+					c-5.4,16.1-0.9,33.7,11.3,45.7l145.2,141.4l-34.3,199.9c-2.8,16.7,4.1,33.4,17.6,43.5c13.9,10.1,31.8,11.3,46.9,3.5l179.5-94.5
+					l179.5,94.5c6.6,3.5,29,9.1,46.9-3.5c13.9-9.8,20.5-26.8,17.6-43.5l-34.3-199.9l145.2-141.4
+					C1732.9,1032.2,1737.3,1014.6,1732,998.5z M1544.3,1146c-14.2,13.7-20.6,33.9-17.6,53.7l31.3,182.9l-164-86.3
+					c-28.3-9.4-28.3-9.4-56.3,0l-164,86.3l31.3-182.9c3.4-19.8-3-39.5-17.6-53.7l-132.7-129.3l183.8-26.6
+					c19.8-3,36.9-15.5,45.5-33.1l82-166.2l82,166.2c9,18,25.8,30.5,45.5,33.1l183.8,26.6L1544.3,1146z"/>
+			</g>
+		</g>
+	</g>
+	<g id="XMLID_1297_" class="st53">
+		<g id="XMLID_1351_" class="st54">
+			<g id="XMLID_1352_">
+				<path id="XMLID_1353_" class="st33" d="M1123.8,965.2c0-87.5-71.2-158.7-158.7-158.7s-158.7,71.2-158.7,158.7v80.2
+					c0,87.5,71.2,158.7,158.7,158.7c34.7,0,66.8-11.2,93-30.2l22.9,22.9c4.9,4.9,11.3,7.3,17.7,7.3s12.8-2.4,17.7-7.3
+					c9.8-9.8,9.8-25.6,0-35.4l-22.9-22.9c19-26.2,30.2-58.3,30.2-93V965.2z M1073.7,1045.3c0,20.9-5.9,40.4-16.2,56.9l-7.9-7.9
+					c-9.8-9.8-25.6-9.8-35.4,0c-9.8,9.8-9.8,25.6,0,35.4l7.9,7.9c-16.6,10.3-36.1,16.2-56.9,16.2c-59.9,0-108.6-48.7-108.6-108.6
+					v-80.2c0-59.9,48.7-108.6,108.6-108.6c59.9,0,108.6,48.7,108.6,108.6L1073.7,1045.3L1073.7,1045.3z"/>
+			</g>
+		</g>
+		<g id="XMLID_1335_" class="st54">
+			<g id="XMLID_1336_">
+				<path id="XMLID_1346_" class="st33" d="M1818,1039.7l-70.6-306c-8.3-35.8-39.7-60.8-76.5-60.8H1649c-36.8,0-68.2,25-76.5,60.8
+					l-70.6,306c-3.1,13.5,5.3,26.9,18.8,30c13.5,3.1,26.9-5.3,30-18.8l20.2-87.5h178l20.2,87.5c2.7,11.6,13,19.4,24.4,19.4
+					c1.9,0,3.8-0.2,5.7-0.6C1812.7,1066.6,1821.1,1053.2,1818,1039.7z M1582.5,913.4l38.9-168.4c3-13,14.4-22,27.7-22h21.9
+					c13.3,0,24.7,9,27.7,22l38.9,168.4H1582.5z"/>
+			</g>
+		</g>
+		<g id="XMLID_1316_" class="st54">
+			<g id="XMLID_1317_">
+				<path id="XMLID_1319_" class="st33" d="M1980.6,566h-641.3c-72.8,0-131.9,59.2-131.9,131.9v1.7H751.4
+					c-72.8,0-131.9,59.2-131.9,131.9v374.1c0,72.8,59.2,131.9,131.9,131.9h322.3v70.2c-24.8-8.9-52.1-13.4-81.8-13.4
+					c-99.8,0-172.3,50.5-215.5,150.2c-32.6,75.2-49,179.9-50.1,319.9c-0.1,19.5,11.5,37.4,29.8,45.6c16.6,7.4,34.6,14,53.8,19.6
+					l-57.3,32.8c-32.7,18.7-53,53.7-53,91.4v33.6c0,43.3,35.2,78.5,78.5,78.5h427.6c43.3,0,78.5-35.2,78.5-78.5v-33.6
+					c0-37.7-20.3-72.7-53-91.4l-57.3-32.8c19.2-5.6,37.2-12.2,53.8-19.6c18.3-8.2,30-26.1,29.8-45.6c-1.1-140-17.5-244.7-50.1-319.9
+					c-18.4-42.5-42.2-76-71.1-100.5l106.4-106.5h150c62.3,0,114.7-43.5,128.4-101.7l94.4,94.4c4.8,4.8,11.2,7.3,17.7,7.3
+					c3.2,0,6.5-0.6,9.6-1.9c9.4-3.9,15.5-13,15.5-23.1V1204h322.3c72.8,0,131.9-59.2,131.9-131.9V697.9
+					C2112.6,625.2,2053.4,566,1980.6,566z M1206.3,2006c17.1,9.8,27.8,28.1,27.8,47.8v33.6c0,15.7-12.7,28.4-28.4,28.4H778.1
+					c-15.7,0-28.4-12.7-28.4-28.4v-33.6c0-19.7,10.6-38.1,27.8-47.9l61.9-35.4c10.9,15.4,65.1,87.4,144.6,113.9
+					c2.6,0.9,5.2,1.3,7.9,1.3s5.4-0.4,7.9-1.3c79.5-26.5,133.7-98.5,144.6-113.9L1206.3,2006z M932.7,1894.2l18.8,11.3
+					c12.5,7.5,26.4,11.2,40.4,11.2s27.9-3.7,40.4-11.2l18.8-11.3c6,18.1,18.5,33.7,35.5,43.4l14.1,8
+					c-12.5,16.8-53.2,66.8-108.7,88.5c-55.2-21.7-96.1-71.8-108.7-88.5l14-8C914.2,1927.9,926.7,1912.2,932.7,1894.2z M883.3,1774.9
+					v-117.4c16.6-0.8,40-2.6,65.3-6.2c53-7.6,93.7-20.4,121.4-38.2l30.4,30.4v131.3c0,19.2-10.2,37.4-26.8,47.3l-67.2,40.3
+					c-9,5.4-20.2,5.4-29.2,0l-67.2-40.3C893.6,1812.2,883.3,1794.1,883.3,1774.9z M1161.4,1564.5c29.8,68.9,44.9,166.9,45.9,299.8
+					c-0.1,0-0.1,0.1-0.2,0.1c-27.3,12.3-60.7,22.2-96.9,28.9c-8.1-5.2-13.2-14.2-13.2-23.9v-2.9l2.4-1.4
+					c31.5-18.9,51.1-53.5,51.1-90.2v-141.7c0-6.6-2.6-13-7.3-17.7l-53.4-53.4c-9.8-9.8-25.6-9.8-35.4,0
+					c-17.7,17.7-57.5,31.7-112.2,39.6c-44.5,6.4-83.5,6.5-83.9,6.5c-13.8,0-25.1,11.2-25.1,25.1v141.7c0,36.7,19.6,71.3,51.1,90.2
+					l2.4,1.4v2.9c0,9.7-5,18.7-13.2,23.9c-36.1-6.7-69.5-16.7-96.9-28.9c-0.1,0-0.1-0.1-0.2-0.1c1.1-132.9,16.1-230.9,45.9-299.8
+					c35-80.8,90.4-120,169.5-120C1071,1444.5,1126.4,1483.8,1161.4,1564.5z M1474.6,1205.7c0,45.1-36.7,81.8-81.8,81.8h-160.3
+					c-6.6,0-13,2.6-17.7,7.3l-90.8,90.8v-73.1c0-13.8-11.2-25.1-25.1-25.1H751.4c-45.1,0-81.8-36.7-81.8-81.8V831.6
+					c0-45.1,36.7-81.8,81.8-81.8h455.9v322.3c0,72.8,59.2,131.9,131.9,131.9h135.3L1474.6,1205.7L1474.6,1205.7z M2062.4,1072.1
+					c0,45.1-36.7,81.8-81.8,81.8h-347.4c-13.8,0-25.1,11.2-25.1,25.1v73.1l-90.8-90.8c-4.7-4.7-11.1-7.3-17.7-7.3h-160.3
+					c-45.1,0-81.8-36.7-81.8-81.8V697.9c0-45.1,36.7-81.8,81.8-81.8h641.3c45.1,0,81.8,36.7,81.8,81.8V1072.1L2062.4,1072.1z"/>
+			</g>
+		</g>
+		<g id="XMLID_1299_" class="st54">
+			<g id="XMLID_1300_">
+				<path id="XMLID_1301_" class="st33" d="M2017.6,1910.9l-127.1-47.7c-8.3-3.1-14.5-9.9-17.1-18.1l12.7-9.5
+					c24.6-18.4,39.8-46.5,41.9-77.2l6-89.8v0v0l10.7-160.3c2.4-36.3-10.4-72.4-35.3-98.9c-24.9-26.6-60-41.8-96.4-41.8h-145.6
+					c-36.4,0-71.5,15.2-96.3,41.8c-24.9,26.6-37.7,62.6-35.3,98.9l16.7,250.1c2,30.6,17.3,58.8,41.9,77.2l12.7,9.5
+					c-2.6,8.2-8.8,15-17.1,18.1l-127.1,47.7c-40.8,15.3-68.3,54.9-68.3,98.5v78.1c0,43.3,35.2,78.5,78.5,78.5h534.4
+					c43.3,0,78.5-35.2,78.5-78.5v-78.1C2085.8,1965.8,2058.4,1926.2,2017.6,1910.9z M1585.6,1505.1c-1.5-22.8,6.3-44.6,21.9-61.4
+					s36.9-25.9,59.8-25.9h145.6c22.9,0,44.1,9.2,59.8,25.9c15.6,16.7,23.4,38.5,21.9,61.4l-0.2,3.7
+					c-85.1,48.5-255.8,67.2-303.6,71.7L1585.6,1505.1z M1602.3,1755.2l-8.3-124.7c44.7-4,196.9-20.3,296.5-63.9l-6.6,98.9
+					c-2.8,41.4-40.2,76.4-81.7,76.4h-62.1c-13.8,0-25.1,11.2-25.1,25.1c0,13.8,11.2,25.1,25.1,25.1h62.1c26.5,0,51.7-8.4,72.8-22.7
+					c-3.5,10.4-10.1,19.7-19.1,26.4l-56.1,42.1c-9.5,7.1-21.2,11-33.1,11h-53.4c-11.8,0-23.6-3.9-33.1-11l-56.1-42.1
+					C1611.4,1785.9,1603.4,1771.2,1602.3,1755.2z M1715.1,2115.9h-242.2c-15.7,0-28.4-12.7-28.4-28.4v-78.1
+					c0-22.8,14.4-43.6,35.8-51.6l89.9-33.7l144.9,96.6L1715.1,2115.9L1715.1,2115.9z M1625.2,1900.6c9.2-6.6,16.9-15.1,22.5-24.8
+					l2.6,1.9c18.1,13.6,40.5,21,63.1,21h53.4c22.6,0,45-7.5,63.1-21l2.5-1.9c5.6,9.7,13.3,18.2,22.5,24.8l-114.9,76.6L1625.2,1900.6
+					z M2035.7,2087.5L2035.7,2087.5c0,15.7-12.7,28.4-28.4,28.4h-242.2v-95.1l144.9-96.6l89.9,33.7c21.4,8,35.8,28.8,35.8,51.6
+					V2087.5z"/>
+			</g>
+		</g>
+	</g>
+	<g id="XMLID_1273_" class="st53">
+		<path id="XMLID_1275_" class="st55" d="M1736.2,686.5v1359.1c0,11.7,9.5,21.3,21.3,21.3h387.3c11.7,0,21.3-9.5,21.3-21.3V686.5
+			c0-11.7-9.5-21.3-21.3-21.3h-387.3C1745.8,665.2,1736.2,674.7,1736.2,686.5z M2133.4,2026.6h-364.7V705.5h364.7V2026.6z
+			 M2060.1,931h-217.9v-60.2h218L2060.1,931L2060.1,931z M2060,1030.6h-218.2v-60.3H2060V1030.6z M1842.2,1791.4h218.1v60.3h-218.1
+			L1842.2,1791.4z M1277.7,727.3l-382.2-87.6c-11.4-2.6-22.8,4.5-25.5,16L566.5,1980.4c-2.6,11.4,4.5,22.8,16,25.5l377.6,86.5
+			c11.4,2.6,22.8-4.5,25.5-16l292.1-1274.6v1257.6c0,11.7,9.5,21.3,21.3,21.3h387.4c11.7,0,21.3-9.5,21.3-21.3V700.3
+			c0-11.7-9.5-21.3-21.3-21.3h-387.4c-11.7,0-21.3,9.5-21.3,21.3V727.3z M953.7,2048.7l-348.8-83.8L902.1,683.3l346.3,84.8
+			L953.7,2048.7z M1314.2,705.5h356.9v857.1h-356.9V705.5z M1388.4,1687.9v-56.1h216v56.1H1388.4z M1604.3,1725.6v56.1h-216v-56.1
+			H1604.3z M1314.2,1856.3h356.9v192.4h-356.9V1856.3z M1383.7,870.8h218V931h-218V870.8z M793.2,1579.4l163.2-712.2l54.3,12.4
+			l-163.2,712.1L793.2,1579.4z M902.1,1604.3l163.3-712.1l54.3,12.4l-163.3,712.2L902.1,1604.3z"/>
+	</g>
+	
+		<image style="overflow:visible;" width="512" height="512" xlink:href="data:image/jpeg;base64,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
+jjM9oF6yk7Kxw7LC4CBFIVJwFgHMNCzw6pxkxMSJSMhbKMByzyHrktEcWD5BwBDCwKoDkRERzyAS
+g6mGsw4JHyZojRYVMHXVED0tlXYqq5GNEfwMfwMTGd4zvGd4zvGd4zvGd4zvGd4zvGd4zvGd4zvG
+d4zvGd4zvGd4zvGd4zvGd4zvGd4zvGd4zvGd4zvGd44f/9oACAEBAAEFADqVPL06menUz06menUz
+06menUz06menUz06menUz06menUz06menUz06menUz06menUz06menUz06menUz06menUz06menU
+z06menUz06menUz06menUz06menUz06menUz06menUz06menUz06menUz06menUz06menUz06men
+Uz06menUz06menUz06menUz06menUz06menUz06menUz06menUz06meAYX2/oBfb+gF9v6AX2/oB
+fb+gF9uqADOV7ZZPA2lUYO31ByK1eM/FMZ+CJwqdUsPbKxYzaTjG1nq6wvt1Ca7nyna1jgAARynU
+K7csbe9PVF9umESKa22RgiIxoIwHJt1oz3qmRdqzgtUeqzQU7HIYgunL7dKlDHnWqLrjxa9SYbu0
+Yy7ZZkzMzoCw9eK3Vo4m5XdoapbQt0jrz0xfbpK9c3mhC0BwMwWNjcyLCIinRRp+wUVK0RdoAIca
++4OTiLKnjwIRIbtMkF0pfbo1KNp164IXws2l1xfYa8tW2THq43t+WgDNZU74u4mImNusVdnSF9uj
+oVfwXwt2grgxhtPXTtzWKNwqTFzcIaOmJ7ZQvfpxsIF62ASz6Mvt0W3Vv1Zwe4ULa03M1qQ52MqW
+VxyImYmjb/cOG51/IejL7dDESU10wlPC9Zl7daF/q0AFY5uCBU/kKaSmKaLV4UQUWEyl3RF9uh21
+P6P4bi/8k8isyFPiYmM3Ngm/k7ZY8T4bqnuPRF9uh21XhX4XXftY1jXecEJDKLz0Qzc7BjM9+UJS
+BKZDV49f6pmO09CX26AYkiWMAGWmfkjXttYWllqsFhcxMTzNqb5K4XF/nZ6Evt0FMfOzw3U+yte1
+MH88IoETLyPkrUxsnStBGbYfjY4bqHZ3Ql9ug22O9rhuxf8AboqVCslG3VIi5t/4ithqMN2ntZvN
+sRyRiSlCQSrN0QIFVLxscN2H/h0JfboNq/8ARw3Of/04qrYbDaz1Rm2xHq42IlXJq1TsmO21Yi5t
+/wCQiXiSzFgZurB7K/w3husf9HQl9ug2r/0cNzj/APTTTDnxERExExbTCX0bkImLNeYu3wkOTtkR
+FbDiJCfmvcdXwt1dMERGSv8ALI+M3X/4dCX26DbZ7WuG6j/20GwuzwvMFlnkrWbC/wBXZ7MUxRUb
+kImLCCi7fX4aKw+Vjhu0/wDX0JfboKZeFnhuwd14rcbChduFho8rbkitGX0i2vr20PKzw3Yu7OhL
+7dAMyJAUGGXF/pX5u3OFiMvuFSNe1L7Dwvn52uhL7dDtzPOtwtK/F/KUhzpZTsrgDMC/2VrsxhsL
+VETM11finGHAARSRdCX26HbHeDuG5o818lK/0atYrDNxQKncjbkfo7hubvBPRF9uhEpAkNhysIYK
+LSJQ3kV2Qt0TExm6NEnaxEjKsiEK4XXfs/oi+3RbZY8D4W60WFEJCXIr3nIhm6PIZmZnXt1Twjhu
+Fj8ldGX26KJmJp2YsK4XqX7RMTE6a9dlg42lPa1ROvHIoUpOeDGCsLDie3oy+3R13khimA0OFyiL
+8MCWWjbBiK2MGDXP+J1U9vmc+OHxl+3+xdIX26SpbKuYGLB4PrKsDYouRo262KsiYmLtwFr0prtf
+NagtGi/e8umL7dLVtnXJTluDi+hXbjdssBhAYTkFMRxiJnFUbLMTtagwREY4TMDFy/LOnL7cgEtZ
+hVbARzEuYk619TtMiJQdKqeTtdacnaUZG1VowdvqDgKWvS+ypEWbjbE8wFmczUsxExMckvtroU4e
+UDAxjqld2O2to4azXPLr7g5WJu13cxthKYsboZYREU8tNGw7E7YkMERGMuUweExMTrL7aoiSmuqE
+p0GsGQ7a1ljqj08xVywrF7tGBfqngtUegjAcO7VDGbqqMbuNlmTMzPKADZKdraWJp106tyT+b9Zf
+bVty4OzyHUa7cdtj15MSM8yDKM/RmSw55yar3Yna1jgLBca9xV+lfWX21bYcDZ5TUKdDtqxiWqnp
+4iZlO3WGYnb66uXfOAq6y+2oSICq3VvHlkIlDtsSeOpWE9ItTGynainFV0pjlsYCxuW5sHrL7chN
+6wrE7mg8EhKOW6jXdjttevJiYnnJqPdidrUOCAhHLdbrpx26MLDYbJ5BfblLc1Up3WYxVhLo5ba6
+XQ7aijGKYqeUjb7DcTt9dXMIhGHbmkMdesN5hfbmRMxKdxsLxO4125ExMcowA4dtayx1dyJ0xEzK
+NtczEU0I5jbCUw7dSnGNY2eaX256rDkyndRnFuU2OUQiUXq1ZXH5yvtrmYiqlEct16unHbk9mTMz
+PPL7dCJEMp3N4Ym9XbyHWEoixubWZMzM5XoOdiKaEcsjAIduiQx1yw7oy+3SJtvTid1WWAwGRwa9
+SRsboZYREU4io5816CU8tt2srHbo0sNjGT0hfbpgMwlW6ODG7q0oIiOcTWc+a+2qXnbtyW2UKxu7
+RjbT3dQX26lNV75RtigyIiI1tsoVjd2GMbdst6svt06aFh2J25CsiIiNTLtZWM3bG3LDeMRJSvb7
+LMZtlgIISGenL7dIIkUp2xx4mmhOojEIZuNYMZurSxlhzeMRJSrbbB4ra0DgKWuODEqbDtqicbXc
+melL7dEqu50p2qIxaVKjQZgEN3NAY3crJ4Rkc6lW7CsVu0Yqyh2mYiYdt1dmO2+wrJiY6Mvt0Cdv
+sNxO2oXkRERoderqx26OPDMznmKv2VYndEngGBxobWS7HbUUYxTFT0BfbmrUxkp2o5xNVCdJmAQ7
+dFDjrdh3RAw1yndGjibld2khE4dtaTx1Kwnnl9uWmlYdidrUGCAhGh1pCcduplhsYyemTesJxO5p
+PBISjQ6lXdjtrcGEJBPLL7alLNpjtIeLqL1EnbHHiaVdOmZgYduSF46/Yb1i3NVKd1nFPS6NDFLb
+DtqGcZUsLJW1RIW6JV41l9tW1yMWdTXqTDt1xr2unr4mRlO5PXib9duu9IxV1l9tSmStgFBjxdfr
+qx25PZkzMz/CJtvTid0WWAwGRx3V3ctZfbXtjvNWW7E10utPd/FAZrmlfYxmEUCLmS1usvtrqvlD
+hs1yHcba2x/FqZKmLt12DuFxchyC+39AL7f0Avt/QC+39AL7f0A7dTy9ypnuVM9ypnuVM9ypnuVM
+9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuV
+M9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnu
+VM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnuVM9ypnmGf/2gAIAQICBj8ANpvVTeqm9VN6
+qb1U3qpvVTeqm9VN6qb1U3qpvVTeqm9VN6qb1U3qpvVTeqm9VN6qb1U3qpvVTeqm9VN6qb1U3qpv
+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" transform="matrix(1 0 0 1 6461.2544 -46)">
+	</image>
 </g>
 </svg>

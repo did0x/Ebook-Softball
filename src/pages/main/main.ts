@@ -1,5 +1,9 @@
 import { Component } from '@angular/core';
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { NavController, NavParams } from 'ionic-angular';
+import { MateriPage } from '../materi/materi';
+import { QuizPage } from '../quiz/quiz';
+import { ScoreboardPage } from '../scoreboard/scoreboard';
+import { AboutPage } from '../about/about';
 
 /**
  * Generated class for the MainPage page.
@@ -8,7 +12,6 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
  * Ionic pages and navigation.
  */
 
-@IonicPage()
 @Component({
   selector: 'page-main',
   templateUrl: 'main.html',
@@ -21,5 +24,25 @@ export class MainPage {
   ionViewDidLoad() {
     console.log('ionViewDidLoad MainPage');
   }
+
+  goMateri() {
+    this.navCtrl.push(MateriPage);
+  }
+
+  goQuiz() {
+    this.navCtrl.push(QuizPage);
+  }
+
+  goScoreboard() {
+    this.navCtrl.push(ScoreboardPage);
+  }
+
+  goAbout() {
+    this.navCtrl.push(AboutPage);
+  }
+  
+  log():void {
+    console.log('Your message here');
+   }
 
 }

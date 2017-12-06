@@ -1,0 +1,35 @@
+page-scoreboard {
+    .toolbar-title {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        color: #ffffff !important;
+    }
+    .bar-button {
+        color: #ffffff !important;
+    }
+    ion-content {
+        background: linear-gradient(to bottom, #fdc801 0%, #fba200 100%);
+    }
+    .information {
+        font-size: 24px;
+        color: #ffffff;
+        margin-top: 56px;
+        margin-left: 24px !important;
+    }
+    .scoreboard {
+        display: table;
+        line-height: 24px;
+    }
+    .left {
+        display: table-cell;
+        text-align: left;
+    }
+    .right {
+        display: table-cell;
+        text-align: right
+    }
+    ion-content .scroll-content,
+    ion-content .fixed-content {
+        margin: 0 !important;
+    }
+}

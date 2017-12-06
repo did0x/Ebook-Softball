@@ -7,44 +7,43 @@
 </div>
 
 
-<ion-header>
-    <ion-navbar>
+<!-- <ion-header>
+    <ion-navbar hideBackButton transparent>
         <ion-title>
-            Ionic Blank
         </ion-title>
     </ion-navbar>
-</ion-header>
+</ion-header> -->
 
-<ion-content>
+<ion-content class="slider">
     <ion-slides pager (ionSlideDidChange)="slideChanged()" (ionSlideDrag)="slideMoved()">
 
         <ion-slide>
-            <div class="diag" style="background: url('assets/imgs/whitebg.svg') no-repeat">
-                <ion-icon ios="ios-analytics" md="md-analytics" color="primary" [@bounce]='state' (@bounce.done)="animationDone($event)"></ion-icon>
-            </div>
             <div [@bounce]='state'>
-                <h2>track your routine</h2>
-                <p>whether it's sets, reps, weight used, you can track it all with our intuitive interface.</p>
+                <h2 class="title-p">LEARN HOW TO <br/> PLAY SOFTBALL</h2>
+                <p class="desc">whether it's sets, reps, weight used, you can track it all with our intuitive interface.</p>
+            </div>
+            <div class="diag" style="background: url('assets/imgs/bg_banner.svg') no-repeat">
+                <img class="banner_1" src="assets/imgs/banner_1.png" alt="Banner One" [@bounce]='state' (@bounce.done)="animationDone($event)" />
             </div>
         </ion-slide>
 
         <ion-slide>
-            <div class="diag" style="background: url('assets/imgs/whitebg.svg') no-repeat">
-                <ion-icon ios="ios-trophy" md="md-trophy" color="primary" [@bounce]='state' (@bounce.done)="animationDone($event)"></ion-icon>
-            </div>
             <div [@bounce]='state'>
-                <h2>set personal goals</h2>
-                <p>we're all in the gym for a reason: goals. set goals for diet and fitness.</p>
+                <h2 class="title-p">TAKE A QUIZ TO <br/> TEST YOUR KNOWLEDGE</h2>
+                <p class="desc">we're all in the gym for a reason: goals. set goals for diet and fitness.</p>
+            </div>
+            <div class="diag" style="background: url('assets/imgs/bg_banner.svg') no-repeat">
+                <img class="banner_2" src="assets/imgs/banner_2.png" alt="Banner One" [@bounce]='state' (@bounce.done)="animationDone($event)" />
             </div>
         </ion-slide>
 
         <ion-slide>
-            <div class="diag" style="background: url('assets/imgs/whitebg.svg') no-repeat">
-                <ion-icon ios="ios-chatboxes" md="md-chatboxes" color="primary" [@bounce]='state' (@bounce.done)="animationDone($event)"></ion-icon>
-            </div>
             <div [@bounce]='state'>
-                <h2>chat with others</h2>
-                <p>inspire and help each other reach fitness and diet goals.</p>
+                <h2 class="title-p">BE A PRO <br/> SOFTBALL PLAYER</h2>
+                <p class="desc">inspire and help each other reach fitness and diet goals.</p>
+            </div>
+            <div class="diag" style="background: url('assets/imgs/bg_banner.svg') no-repeat">
+                <img class="banner_3" src="assets/imgs/banner_3.png" alt="Banner One" [@bounce]='state' (@bounce.done)="animationDone($event)" />
             </div>
         </ion-slide>
 

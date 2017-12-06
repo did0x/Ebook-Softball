@@ -1,0 +1,23 @@
+page-materi {
+    .toolbar-title {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        color: #ffffff !important;
+    }
+    .bar-button {
+        color: #ffffff !important;
+    }
+    ion-content {
+        background: linear-gradient(to bottom, #fdc801 0%, #fba200 100%);
+    }
+    .materi-select-button {
+        text-align: center;
+        background: #ffffff;
+        /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        border-radius: 5px;
+        cursor: pointer;
+        color: rgb(121, 121, 121);
+        padding: 26px 10px 18px 10px;
+        margin-bottom: 10px;
+    }
+}

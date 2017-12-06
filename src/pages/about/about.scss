@@ -1,0 +1,47 @@
+page-about {
+    .toolbar-title {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        color: #ffffff !important;
+    }
+    .bar-button {
+        color: #ffffff !important;
+    }
+    ion-content {
+        background: linear-gradient(to bottom, #fdc801 0%, #fba200 100%);
+    }
+    .about {
+        text-align: center;
+    }
+    .team {
+        margin-top: 20px;
+    }
+    .team h4 {
+        font-weight: bold;
+        color: #ffffff;
+    }
+    .team p {
+        font-size: 14px;
+        color: #ffffff;
+    }
+    .copyright {
+        text-align: center;
+        color: #f8f8f8;
+        margin-top: 50px;
+    }
+    .img-logo {
+        max-width: 150px;
+        /* height: auto; */
+        position: relative;
+        left: 50%;
+        border-radius: 75px;
+        margin: 25px auto 25px -75px;
+        -webkit-box-shadow: 0px 0px 112px -29px rgba(0, 0, 0, 0.52);
+        -moz-box-shadow: 0px 0px 112px -29px rgba(0, 0, 0, 0.52);
+        box-shadow: 0px 0px 112px -29px rgba(0, 0, 0, 0.52);
+    }
+    p {
+        margin-bottom: 0px !important;
+        color: #ffffff;
+    }
+}

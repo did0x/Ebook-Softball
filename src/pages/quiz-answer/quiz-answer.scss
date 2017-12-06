@@ -1,0 +1,17 @@
+page-quiz-answer {
+    .toolbar-title {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        color: #ffffff !important;
+    }
+    .bar-button {
+        color: #ffffff !important;
+    }
+    ion-content {
+        background: linear-gradient(to bottom, #fdc801 0%, #fba200 100%);
+    }
+    .quiz-no {
+        text-align: center;
+        margin: 10px auto!important;
+    }
+}

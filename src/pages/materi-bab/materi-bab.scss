@@ -1,0 +1,23 @@
+page-materi-bab {
+    .toolbar-title {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        color: #ffffff !important;
+    }
+    .bar-button {
+        color: #ffffff !important;
+    }
+    ion-content {
+        background: linear-gradient(to bottom, #fdc801 0%, #fba200 100%);
+    }
+    .bab {
+        margin-bottom: 5% !important;
+    }
+    .judul {
+        margin-bottom: 5% !important;
+        word-break: keep-all;
+    }
+    .button-lihat {
+        color: #FCB533;
+    }
+}
